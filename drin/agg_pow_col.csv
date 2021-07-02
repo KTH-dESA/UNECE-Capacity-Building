@@ -1,0 +1,15 @@
+Gas inside Drin,Gas outside Drin,Coal inside Drin,Coal outside Drin,Wind inside Drin,Wind outside Drin,Hydro inside Drin,Hydro outside Drin,Solar PV inside Drin,Solar PV outside Drin,Backstop,Import,Export
+,"AL, Gas Combined Cycle Existing Outside DRB ","ME, Coal Single Cycle-NEW Inside DRB","MK, Coal power plants Outside DRB","AL, Wind Turbine - Inside DRB","AL, Wind Turbine - Outside DRB","AL, Hydro dam-Existing Inside DRB","AL, Hydro dam-Existing Outside DRB","AL, Solar PV - Inside DRB","AL, Solar PV - Outside DRB","AL, BACKSTOP TECHNOLOGY","AL, Total Electricity Import","AL, Total Electricity Export"
+,"AL, Gas Combined Cycle NEW Outside DRB ",,"MK, NEW Coal power plants Outside DRB","MK,  Wind Turbine - Inside DRB","MK,  Wind Turbine - Outside DRB","AL, Hydro dam-(NEW Skavica Hpp) ","AL, NEW Hydro dam Outside DRB","MK, Solar PV - Inside DRB","MK, Solar PV - Outside DRB","MK, BACKSTOP TECHNOLOGY","MK, Total Electricity Import","MK, Total Electricity Export"
+,"MK, CHP - Existing  Outside DRB",,"ME, Coal Single Cycle- Existing Outside DRB","ME, Wind Turbine - Inside DRB","ME, Wind Turbine - Outside DRB ","AL, Hydro dam-Fierza HPP","AL, Hydro ROR-Existing  Outside DRB","ME, Solar PV - Inside DRB","ME, Solar PV - Outside DRB","ME, BACKSTOP TECHNOLOGY","ME, Total Electricity Import","ME, Total Electricity Export"
+,"MK, CHP - NEW Outside DRB",,"ME, Coal Single Cycle-NEW Outside DRB","XK, Wind Turbine - Inside DRB","XK, Wind Turbine - Outside DRB","AL, Hydro dam-Koman HPP","AL, Small Hydro (<10MW) -Existing  Outside DRB","XK, Solar PV - Inside DRB","XK, Solar PV - Outside DRB","XK, BACKSTOP TECHNOLOGY","XK, Total Electricity Import","XK, Total Electricity Export"
+,"MK, Gas Combined Cycle -NEW Project Outside DRB",,"XK, Coal Single Cycle- Existing Outside DRB",,,"AL, Hydro dam-Vau I dejes HPP","MK, Hydro dam-Existing  Outside DRB",,,,,
+,,,"XK, Coal Single Cycle- NEW  - Outside DRB",,,"AL, Hydro ROR-Existing  Inside DRB","MK, Hydro dam-NEW  Outside DRB",,,,,
+,,,,,,"AL, Small Hydro (<10MW) -Existing  Inside DRB","MK, Hydro ROR-Existing  Outside DRB",,,,,
+,,,,,,"MK, Hydro dam-Globicica HPP","MK, Hydro ROR-NEW Outside DRB",,,,,
+,,,,,,"MK, Hydro dam-Shpilje HPP","MK, Small Hydro-Existing  Outside DRB",,,,,
+,,,,,,"ME, Hydro dam-Existing  Inside DRB","ME, Hydro dam-Existing  Outside DRB",,,,,
+,,,,,,"ME, Hydro ROR-NEW Inside DRB","ME, Hydro dam-Existing  Outside DRB",,,,,
+,,,,,,,"ME, Hydro ROR-NEW Outside DRB",,,,,
+,,,,,,,"XK, Hydro Dam- Existing  Outside DRB ",,,,,
+,,,,,,,"XK, Hydro Dam- NEW Outside DRB ",,,,,

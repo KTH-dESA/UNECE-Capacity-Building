@@ -1,0 +1,144 @@
+tech_code,tech_name,colour
+Gas inside Drin,Gas inside Drin,darkgrey
+Gas outside Drin,Gas outside Drin,gray
+Coal inside Drin,Coal inside Drin,brown
+Coal outside Drin,Coal outside Drin,burlywood
+Wind inside Drin,Wind inside Drin,deeppink
+Wind outside Drin,Wind outside Drin,pink
+Hydro inside Drin,Hydro inside Drin,cadetblue
+Hydro outside Drin,Hydro outside Drin,blue
+Solar PV inside Drin,Solar PV inside Drin,yellowgreen
+Solar PV outside Drin,Solar PV outside Drin,yellow
+Backstop,Backstop,black
+Import,Import,gold
+Export,Export,red
+ALPELBS000,"AL, BACKSTOP TECHNOLOGY",black
+ALRNGDM000,"AL, Gas extraction",orchid
+ALRNGIM000,"AL, Gas Import",black
+ALPHYDMHI0,"AL, Hydro dam-Existing Inside DRB",pink
+ALPHYDMNI1,"AL, Hydro dam-(NEW Skavica Hpp) ",brown
+ALPHYDMHI2,"AL, Hydro dam-Fierza HPP",aliceblue
+ALPHYDMHI3,"AL, Hydro dam-Koman HPP",antiquewhite
+ALPHYDMHI4,"AL, Hydro dam-Vau I dejes HPP",aqua
+ALPHYDMHO0,"AL, Hydro dam-Existing Outside DRB",aquamarine
+ALPHYDMNO0,"AL, NEW Hydro dam Outside DRB",azure
+ALPHYRRHI0,"AL, Hydro ROR-Existing  Inside DRB",beige
+ALPHYRRHO0,"AL, Hydro ROR-Existing  Outside DRB",bisque
+ALPHYSHHI0,"AL, Small Hydro (<10MW) -Existing  Inside DRB",yellow
+ALPHYSHHO0,"AL, Small Hydro (<10MW) -Existing  Outside DRB",blanchedalmond
+ALPNGCCHO0,"AL, Gas Combined Cycle Outside DRB ",blue
+ALPNGCCNO0,"AL, Gas Combined Cycle Outside DRB ",blueviolet
+ALPSOU1NO0,"AL, Solar PV -Existing Outside DRB",brown
+ALPSOU1NI0,"AL, Solar PV -Existing Inside DRB",burlywood
+ALPWI30NO0,"AL, Wind Turbine-NEW project outside DRB",cadetblue
+ALPWI30NI0,"AL, Wind Turbine-NEW project Inside DRB",chartreuse
+ALTELTRH00,AL Transmission Lines,chocolate
+ALTELDSH00,AL Distribution Lines,coral
+ALTRDIMH00,"AL, Total Electricity Import",cornflowerblue
+ALTRDEXH00,"AL, Total Electricity Export",cornsilk
+ALTRDMKH00,AL-MK Planned Trade link,crimson
+ALTRDMEH00,AL-ME Historic Trade Link,cyan
+ALTRDXKH00,AL-XK Historic Trade Link,darkblue
+ALTRDGRH00,AL-GR Historic Trade Link,darkcyan
+GRTRDALH00,GR-AL Historic Trade Link,darkgoldenrod
+MKPELBS000,"MK, BACKSTOP TECHNOLOGY",black
+MKRCODM000,"MK, Coal Extraction ",darkgrey
+MKRCOIM000,"MK, Coal Import",darkgreen
+MKRHFIM000,"MK, HFO Import ",darkkhaki
+MKRNGIM000,"MK, Gas Import",darkmagenta
+MKPCOSCHO0,"MK, Coal power plants Outside DRB",darkolivegreen
+MKPCOSCNO0,"MK, NEW Coal power plants Outside DRB",darkorange
+MKPHFSCHO0,"MK, HF Single cycle plant Outside DRB ",darkorchid
+MKPHYDMHI1,"MK, Hydro dam-Globicica HPP",darkred
+MKPHYDMHI2,"MK, Hydro dam-Shpilje HPP",darksalmon
+MKPHYDMHO0,"MK, Hydro dam-Existing  Outside DRB",darkseagreen
+MKPHYDMNO0,"MK, Hydro dam-NEW  Outside DRB",darkslateblue
+MKPHYRRHO0,"MK, Hydro ROR-Existing  Outside DRB",darkslategray
+MKPHYRRNO0,"MK, Hydro ROR-NEW Outside DRB",darkslategrey
+MKPHYSHHO0,"MK, Small Hydro-Existing  Outside DRB",darkturquoise
+MKPNGCHHO0,"MK, CHP - Existing  Outside DRB",darkviolet
+MKPNGCHNO0,"MK, CHP - NEW Outside DRB",deeppink
+MKNGCCNO0,"MK, Gas Combined Cycle -NEW Project Outside DRB",deepskyblue
+MKPSOU1NO0,"MK, Solar PV-Existing  Outside DRB",dimgray
+MKPSOU1NI0,"MK, Solar PV-Existing  Inside DRB",dimgrey
+MKPWI30NO0,"MK,  Wind Turbine-Existing  Outside DRB",dodgerblue
+MKPWI30NI0,"MK,  Wind Turbine Inside DRB",firebrick
+MKTELTRH00,"MK,  Transmission Lines",floralwhite
+MKTELDSH00,"MK,  Distribution Lines",forestgreen
+MKTRDIMH00,"MK, Total Electricity Import",fuchsia
+MKTRDEXH00,"MK, Total Electricity Export",gainsboro
+MKTRDALH00,MK-AL PLANNED Trade Link,ghostwhite
+MKTRDXKH00,MK-XK PLANNED Trade Link,gold
+XKTRDMKH00,XK-MK PLANNED Trade Link,goldenrod
+MKTRDBGH00,MK-BG Historic Trade Link,gray
+BGTRDMKH00,BG - MK Historic Trade Link,grey
+MKTRDGRH00,MK-GR Historic Trade Link,green
+GRTRDMKH00,GR-MK Historic Trade Link,greenyellow
+MKTRDRSH00,MK-RS Historic Trade Link,honeydew
+RSTRDMKH00,RS-MK Historic Trade Link,hotpink
+MEPELBS000,"ME, BACKSTOP TECHNOLOGY",black
+MERCODM000,"ME, Coal Extraction ",indigo
+MERCOIM000,"ME, Coal Import",ivory
+MEPHYDMHI0,"ME, Hydro dam-Existing  Inside DRB",khaki
+MEPHYDMHO0,"ME, Hydro dam-Existing  Outside DRB",lavender
+MEPHYDMNO0,"ME, Hydro dam-Existing  Outside DRB",lavenderblush
+MEPHYRRNO0,"ME, Hydro ROR-NEW Outside DRB",lawngreen
+MEPHYRRNI0,"ME, Hydro ROR-NEW Inside DRB",lemonchiffon
+MEPSOU1NO0,"ME, Solar PV  NEW Outside DRB",lightblue
+MEPSOU1NI0,"ME, Solar PV  NEW Inside DRB",lightcoral
+MEPCOSCHO0,"ME, Coal Single Cycle- Existing Outside DRB",lightcyan
+MEPCOSCNO0,"ME, Coal Single Cycle-NEW Outside DRB",lightgoldenrodyellow
+MEPCOSCNI0,"ME, Coal Single Cycle-NEW Inside DRB",lightgray
+MEPWI30NI0,"ME, Wind Turbine - Existing Inside DRB",lightgrey
+MEPWI30NO0,"ME, Wind Turbine - Existing Inside DRB ",lightgreen
+METELTRH00,"ME, Transmission Lines",lightpink
+METELDSH00,"ME, Distribution Lines",lightsalmon
+METRDIMH00,"ME, Total Electricity Import",lightseagreen
+METRDEXH00,"ME, Total Electricity Export",lightskyblue
+METRDALH00,ME-AL Historic Trade link,lightslategray
+METRDXKH00,ME-XK Historic Trade link,lightslategrey
+METRDITH00,ME-IT Historic Trade link,lightsteelblue
+ITTRDMEH00,IT - ME Historic Trade link,lightyellow
+METRDBAH00,ME-BA Historic Trade link,lime
+BATRDMEH00,BA-ME Historic Trade link,limegreen
+METRDRSH00,ME-RS Historic Trade link,linen
+RSTRDMEH00,RS-ME Historic Trade link,magenta
+XKPELBS000,"XK, BACKSTOP TECHNOLOGY",black
+XKRCODM000,"XK, Coal Extraction ",mediumaquamarine
+XKRCOIM000,"XK, Coal Import",mediumblue
+XKPCOSCHO0,"XK, Coal Single Cycle- Existing Outside DRB",mediumorchid
+XKPCOSCNO0,"XK, Coal Single Cycle- NEW  - Outside DRB",mediumpurple
+XKPHYRRHO0,"XK, Hydro Dam- Existing  Outside DRB ",mediumseagreen
+XKPHYRRNO0,"XK, Hydro Dam- NEW Outside DRB ",mediumslateblue
+XKPSOU1NO0,"XK, Solar PV, NEW Outside DRB",mediumspringgreen
+XKPSOU1NI0,"XK, Solar PV, NEW Inside DRB",mediumturquoise
+XKPWI25NO0,"XK, Wind Turbine- Existing Outside DRB",mediumvioletred
+XKPWI25NI0,"XK, Wind Turbine- Existing Inside DRB",midnightblue
+XKTELTRH00,"XK, Transmission Lines",mintcream
+XKTELDSH00,"XK, Distribution Lines",mistyrose
+XKTRDIMH00,"XK, Total Electricity Import",moccasin
+XKTRDEXH00,"XK, Total Electricity Export",navajowhite
+XKTRDAKH00,XK-AL Historic Trade Link,navy
+XKTRDMEH00,XK - ME Historic Trade link,oldlace
+MKCWTLK0BD,"MK , Lake Ohrid ",olive
+MKCWTCT1BD,"MK , Black Drin inflow from Catchment 1 ",olivedrab
+MKCWTRS1BD,"MK , Black Drin River Segment 1 ",orange
+MKCWTSP1BD,"MK , Globocica HPP spillway",orangered
+MKCWTCT2BD,"MK , Black Drin Catchment 2 ",orchid
+MKCWTRS2BD,"MK , Black Drin River Segment 2",palegoldenrod
+MKCWTSP2BD,"MK , Shpilje HPP spillway",palegreen
+MKCWTCT3DD,"MK , Black Drin Catchment 3",paleturquoise
+MKCWTRS3DD,"MK , Black Drin River Segment 3",palevioletred
+ALCWTSP3DD,"AL , Skavica HPP spillway (Planned)",papayawhip
+XKCWTRS1WD,"XK, White Drin River Segment 1 ",peachpuff
+ALCWTCT1DD,"AL, Drin inflow from Catchment 1 ",peru
+ALCWTRS1DD,"AL, Drin River Segment 1",pink
+ALCWTSP4DD,"AL, Fierza HPP spillway",plum
+ALCWTCT2DD,"AL, Drin inflow from Catchment 2 (after Fierza HPP)",powderblue
+ALCWTRS2DD,"AL, Drin River Segment 2",purple
+ALCWTSP5DD,"AL, Koman HPP spillway",red
+ALCWTCT3DD,"AL, Drin inflow from Catchment 3 (after Koman HPP)",rosybrown
+ALCWTRS3DD,"AL, Drin River Segment 3",royalblue
+ALCWTSP6DD,"AL, Vau I dejes HPP spillway",saddlebrown
+ALCWTCT4DD,"AL, Drin inflow from Catchment 2 (after Vau I dejes HPP)",salmon
+ALCWTRS4DD,"AL, Drin River Segment 4 (outflow from Drin)",sandybrown
