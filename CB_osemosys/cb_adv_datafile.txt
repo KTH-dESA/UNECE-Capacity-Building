@@ -2,7 +2,7 @@
 #    Sets     #
 ###############
 #
-set COMMODITY := COA ELC001 ELC002 GAS HYD SOL WAT WND ;
+set FUEL := COA ELC001 ELC002 GAS HYD SOL WAT WND ;
 set EMISSION :=  ;
 set MODE_OF_OPERATION := 1 ;
 set REGION := EXAMPLE ;
