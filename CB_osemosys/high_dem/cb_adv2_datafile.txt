@@ -1,0 +1,254 @@
+###############
+#    Sets     #
+###############
+#
+set FUEL := COA ELC001 ELC002 GAS HYD SOL WAT WND ;
+set EMISSION :=  ;
+set MODE_OF_OPERATION := 1 ;
+set REGION := EXAMPLE ;
+set STORAGE :=  ;
+set TECHNOLOGY := DEMPWRCOA DEMPWRGAS MINHYD MINSOL MINWND PWRCOA PWRGAS PWRHYD PWRSOL PWRTRN PWRWND ;
+set TIMESLICE := SD SN WD WN ;
+set YEAR := 2019 2020 2021 2022 ;
+
+
+#####################
+#    Parameters     #
+#####################
+#
+param AccumulatedAnnualDemand default 0 :=
+;
+
+param AnnualEmissionLimit default 99999 :=
+;
+
+param AnnualExogenousEmission default 0 :=
+;
+
+param AvailabilityFactor default 1 :=
+;
+
+param CapacityFactor default 1 :=
+[EXAMPLE,PWRHYD,*,*]:
+2019 2020 2021 2022:=
+SD 0.3 0.3 0.3 0.3
+SN 0.3 0.3 0.3 0.3
+WD 0.5 0.5 0.5 0.5
+WN 0.5 0.5 0.5 0.5
+[EXAMPLE,PWRSOL,*,*]:
+2019 2020 2021 2022:=
+SD 0.45 0.45 0.45 0.45
+SN 0 0 0 0
+WD 0.35 0.35 0.35 0.35
+WN 0 0 0 0
+[EXAMPLE,PWRWND,*,*]:
+2019 2020 2021 2022:=
+SD 0.3 0.3 0.3 0.3
+SN 0.2 0.2 0.2 0.2
+WD 0.25 0.25 0.25 0.25
+WN 0.3 0.3 0.3 0.3
+;
+
+param CapacityOfOneTechnologyUnit default 0 :=
+;
+
+param CapacityToActivityUnit default 1 :
+DEMPWRCOA DEMPWRGAS MINHYD MINSOL MINWND PWRCOA PWRGAS PWRHYD PWRSOL PWRTRN PWRWND:=
+EXAMPLE 1 1 1 1 1 31.536 31.536 31.536 31.536 31.536 31.536
+;
+
+param CapitalCost default 0.000001 :=
+[EXAMPLE,*,*]:
+2019 2020 2021 2022:=
+PWRCOA 2200 2200 2200 2200
+PWRGAS 1250 1250 1250 1250
+PWRHYD 2500 2500 2500 2500
+PWRSOL 1200 1200 1200 1200
+PWRTRN 8000 8000 8000 8000
+PWRWND 1600 1600 1600 1600
+;
+
+param CapitalCostStorage default 0 :=
+;
+
+param DepreciationMethod default 1 :=
+;
+
+param DiscountRate default 0.1 :=
+;
+
+param EmissionActivityRatio default 0 :=
+;
+
+param EmissionsPenalty default 0 :=
+;
+
+param FixedCost default 0 :=
+[EXAMPLE,*,*]:
+2019 2020 2021 2022:=
+PWRCOA 75 75 75 75
+PWRGAS 30 30 30 30
+PWRHYD 60 60 60 60
+PWRSOL 20 20 20 20
+PWRWND 40 40 40 40
+;
+
+param InputActivityRatio default 0 :=
+[EXAMPLE,PWRCOA,COA,*,*]:
+2019 2020 2021 2022:=
+1 3 3 3 3
+[EXAMPLE,PWRGAS,GAS,*,*]:
+2019 2020 2021 2022:=
+1 2 2 2 2
+[EXAMPLE,PWRHYD,HYD,*,*]:
+2019 2020 2021 2022:=
+1 1800 1800 1800 1800
+[EXAMPLE,PWRSOL,SOL,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,PWRTRN,ELC001,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,PWRWND,WND,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+;
+
+param ModelPeriodEmissionLimit default 99999 :=
+;
+
+param ModelPeriodExogenousEmission default 0 :=
+;
+
+param OperationalLife default 1 :
+DEMPWRCOA DEMPWRGAS MINHYD MINSOL MINWND PWRCOA PWRGAS PWRHYD PWRSOL PWRTRN PWRWND:=
+EXAMPLE 30 30 1 1 1 30 30 80 20 30 20
+;
+
+param OperationalLifeStorage default 1 :=
+;
+
+param OutputActivityRatio default 0 :=
+[EXAMPLE,DEMPWRCOA,COA,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,DEMPWRGAS,GAS,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,MINHYD,HYD,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,MINSOL,SOL,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,MINWND,WND,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,PWRCOA,ELC001,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,PWRGAS,ELC001,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,PWRHYD,ELC001,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,PWRHYD,WAT,*,*]:
+2019 2020 2021 2022:=
+1 1800 1800 1800 1800
+[EXAMPLE,PWRSOL,ELC002,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,PWRTRN,ELC002,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+[EXAMPLE,PWRWND,ELC001,*,*]:
+2019 2020 2021 2022:=
+1 1 1 1 1
+;
+
+param REMinProductionTarget default 0 :=
+;
+
+param RETagFuel default 0 :=
+;
+
+param RETagTechnology default 0 :=
+;
+
+param ReserveMargin default 0 :=
+;
+
+param ReserveMarginTagFuel default 0 :=
+;
+
+param ReserveMarginTagTechnology default 0 :=
+;
+
+param ResidualCapacity default 0 :=
+;
+
+param SpecifiedAnnualDemand default 0 :=
+[EXAMPLE,*,*]:
+2019 2020 2021 2022:=
+ELC002 100 125 150 175
+;
+
+param SpecifiedDemandProfile default 0 :=
+[EXAMPLE,ELC002,*,*]:
+2019 2020 2021 2022:=
+SD 0.32 0.32 0.32 0.32
+SN 0.08 0.08 0.08 0.08
+WD 0.18 0.18 0.18 0.18
+WN 0.42 0.42 0.42 0.42
+;
+
+param TotalAnnualMaxCapacity default 99999999 :=
+;
+
+param TotalAnnualMaxCapacityInvestment default 999999999 :=
+;
+
+param TotalAnnualMinCapacity default 0 :=
+;
+
+param TotalAnnualMinCapacityInvestment default 0 :=
+;
+
+param TotalTechnologyAnnualActivityLowerLimit default 0 :=
+;
+
+param TotalTechnologyAnnualActivityUpperLimit default 999999999 :=
+[EXAMPLE,*,*]:
+2019 2020 2021 2022:=
+MINHYD 999999 999999 999999 999999
+;
+
+param TotalTechnologyModelPeriodActivityLowerLimit default 0 :=
+;
+
+param TotalTechnologyModelPeriodActivityUpperLimit default 999999999 :=
+;
+
+param TradeRoute default 0 :=
+;
+
+param VariableCost default 0.000001 :=
+[EXAMPLE,DEMPWRCOA,*,*]:
+2019 2020 2021 2022:=
+1 5 5 5 5
+[EXAMPLE,DEMPWRGAS,*,*]:
+2019 2020 2021 2022:=
+1 10 10 10 10
+;
+
+param YearSplit default 1 :
+2019 2020 2021 2022:=
+SD 0.4457 0.4457 0.4457 0.4457
+SN 0.2228 0.2228 0.2228 0.2228
+WD 0.1657 0.1657 0.1657 0.1657
+WN 0.1657 0.1657 0.1657 0.1657
+;
+
+#
+end;
