@@ -1,0 +1,227 @@
+###############
+#    Sets     #
+###############
+#
+set COMMODITY := COA ELC002 ;
+set EMISSION := "CO2 eq" ;
+set MODE_OF_OPERATION := 1 ;
+set STORAGE :=  ;
+set REGION := EXAMPLE ;
+set TECHNOLOGY := DEMPWRCOA PWRCOA ;
+set TIMESLICE := Day Night ;
+set YEAR := 2019 2020 2021 2022 ;
+
+
+#####################
+#    Parameters     #
+#####################
+#
+
+# Availability factor: takes into account planned outages and maintenance. We assign 90% (i.e. 0.9) for the coal power plant CPP
+
+param AvailabilityFactor default 1 :=
+[EXAMPLE,*,*]:
+		2019 2020 2021 2022:=
+PWRCOA
+;
+
+# Capacity Factor: takes into account average downtime for unplanned outages. We assume 5% downtime on average in each time slice
+
+param CapacityFactor default 1 :=
+[EXAMPLE,DEMPWRCOA,*,*]:
+		2019 2020 2021 2022:=
+Day
+Night
+;
+
+# Capacity To Activity Unit (explained before)
+
+param CapacityToActivityUnit default 1 :
+		DEMPWRCOA PWRCOA:=
+EXAMPLE 
+;
+
+# Capital Cost: overnight investment cost per unit of capacity; we introduce it in Million USD per GW, and only for the coal power plant (we assume 1200 MUSD/GW)
+
+param CapitalCost default 0.0001 :=
+[EXAMPLE,*,*]:
+		2019 2020 2021 2022:=
+PWRCOA
+;
+
+# Fixed O&M cost: it includes costs proportional to the installed capacity, e.g. labour. We introduce it in Million USD per GW. We assign 5 MUSD/GW to CPP
+
+param FixedCost default 0 :=
+[EXAMPLE,*,*]:
+		2019 2020 2021 2022:=
+PWRCOA
+;
+
+# Parameter Input Activity Ratio: assuming that the efficiency of the coal power plant is 50%, for each unit of energy output there will be 2 units
+# of energy input needed
+
+param InputActivityRatio default 0 :=
+[EXAMPLE,PWRCOA,COA,*,*]:
+	2019 2020 2021 2022:=
+1
+;
+
+# Operational life: number of years a technology is active, from the moment it start operation. We introduce it only for the coal power plant, for simplicity (40 years). For BS and CIMP we put 1.
+
+param OperationalLife default 1 :
+		DEMPWRCOA PWRCOA:=
+EXAMPLE
+;
+
+# Parameter Output Activity Ratio: we normalize everything to this, so we put 1. The coal import will give Coal as output; the coal power plant will
+# give electricity as output
+
+param OutputActivityRatio default 0 :=
+[EXAMPLE,DEMPWRCOA,COA,*,*]:
+	2019 2020 2021 2022:=
+1
+[EXAMPLE,PWRCOA,ELC002,*,*]:
+	2019 2020 2021 2022:=
+1
+;
+
+# Parameter Specified Annual Demand: we give a value for every year. We give increasing values starting from 1. We assume PJ as unit.
+
+param SpecifiedAnnualDemand default 0 :=
+[EXAMPLE,*,*]:
+		2019 2020 2021 2022:=
+ELC002
+;
+
+# Parameter Specified Demand Profile. That refers to how big % of the demand occurs during the day and during the night (we assume 67& during the day, 33% during the night).
+
+param SpecifiedDemandProfile default 0 :=
+[EXAMPLE,ELC002,*,*]:
+		2019 2020 2021 2022:=
+Day
+Night
+;
+
+# Parameter Variable Cost: Cost per unit of activity of a technology. It includes variable components such as fuel and chemicals. We express it only for the coal power plant. It includes the fuel costs.
+# We express it in Million USD per PJ and assume 10 for all years.
+
+param VariableCost default 0.0001 :=
+[EXAMPLE,PWRCOA,*,*]:
+	2019 2020 2021 2022:=
+1
+;
+
+# Parameter Year Split: this is a ratio (from 0 to 1) and indicates the duration of every time slice as a ratio of the whole year (here we assume the year is equally split between day and night)
+
+param YearSplit default 1 :
+		2019 2020 2021 2022:=
+Day
+Night
+;
+
+###### Other parameters not used in this exercise
+
+param AccumulatedAnnualDemand default 0 :=
+;
+
+param AnnualEmissionLimit default 99999 :=
+;
+
+param AnnualExogenousEmission default 0 :=
+;
+
+param CapacityOfOneTechnologyUnit default 0 :=
+;
+
+param CapitalCostStorage default 0 :=
+;
+
+param DepreciationMethod default 1 :=
+;
+
+param DiscountRate default 0.1 :=
+;
+
+param EmissionActivityRatio default 0 :=
+;
+
+param EmissionsPenalty default 0 :=
+;
+
+param InputToNewCapacityRatio default 0 :=
+;
+
+param InputToTotalCapacityRatio default 0 :=
+;
+
+param ModelPeriodEmissionLimit default 99999 :=
+;
+
+param ModelPeriodExogenousEmission default 0 :=
+;
+
+param OperationalLifeStorage default 1 :=
+;
+
+param REMinProductionTarget default 0 :=
+;
+
+param RETagFuel default 0 :=
+;
+
+param RETagTechnology default 0 :=
+;
+
+param ReserveMargin default 0 :=
+;
+
+param ReserveMarginTagFuel default 0 :=
+;
+
+param ReserveMarginTagTechnology default 0 :=
+;
+
+param ResidualCapacity default 0 :=
+;
+
+param TechnologyActivityByModeLowerLimit default 0 :=
+;
+
+param TechnologyActivityByModeUpperLimit default 99999 :=
+;
+
+param TechnologyActivityDecreaseByModeLimit default 0 :=
+;
+
+param TechnologyActivityIncreaseByModeLimit default 0 :=
+;
+
+param TotalAnnualMaxCapacity default 99999 :=
+;
+
+param TotalAnnualMaxCapacityInvestment default 999999 :=
+;
+
+param TotalAnnualMinCapacity default 0 :=
+;
+
+param TotalAnnualMinCapacityInvestment default 0 :=
+;
+
+param TotalTechnologyAnnualActivityLowerLimit default 0 :=
+;
+
+param TotalTechnologyAnnualActivityUpperLimit default 999999 :=
+;
+
+param TotalTechnologyModelPeriodActivityLowerLimit default 0 :=
+;
+
+param TotalTechnologyModelPeriodActivityUpperLimit default 999999 :=
+;
+
+param TradeRoute default 0 :=
+;
+
+#
+end;
