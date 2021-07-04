@@ -2,7 +2,7 @@
 #    Sets     #
 ###############
 #
-set COMMODITY := COA ELC002 ;
+set FUEL := COA ELC002 ;
 set EMISSION := "CO2 eq" ;
 set MODE_OF_OPERATION := 1 ;
 set STORAGE :=  ;
@@ -121,12 +121,6 @@ param EmissionActivityRatio default 0 :=
 param EmissionsPenalty default 0 :=
 ;
 
-param InputToNewCapacityRatio default 0 :=
-;
-
-param InputToTotalCapacityRatio default 0 :=
-;
-
 param ModelPeriodEmissionLimit default 99999 :=
 ;
 
@@ -155,18 +149,6 @@ param ReserveMarginTagTechnology default 0 :=
 ;
 
 param ResidualCapacity default 0 :=
-;
-
-param TechnologyActivityByModeLowerLimit default 0 :=
-;
-
-param TechnologyActivityByModeUpperLimit default 99999 :=
-;
-
-param TechnologyActivityDecreaseByModeLimit default 0 :=
-;
-
-param TechnologyActivityIncreaseByModeLimit default 0 :=
 ;
 
 param TotalAnnualMaxCapacity default 99999 :=

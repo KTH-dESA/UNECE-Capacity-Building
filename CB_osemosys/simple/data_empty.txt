@@ -2,7 +2,7 @@
 #    Sets     #
 ###############
 #
-set COMMODITY := COA ELC002 ;
+set FUEL := COA ELC002 ;
 set EMISSION := "CO2 eq" ;
 set MODE_OF_OPERATION := 1 ;
 set STORAGE :=  ;
