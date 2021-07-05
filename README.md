@@ -8,7 +8,7 @@ Binder link for advanced example using OSeMOSYS
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KTH-dESA/UNECE-Capacity-Building/main?filepath=cb_adv_example.ipynb)
 
 ## Developer notes
-Pull the latest changes from git
+Pull the latest changes from git <br>
     `git pull origin master`
 
 Create and checkout a new branch
