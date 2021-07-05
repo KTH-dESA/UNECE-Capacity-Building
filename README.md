@@ -11,15 +11,15 @@ Binder link for advanced example using OSeMOSYS
 Pull the latest changes from git <br>
     `git pull origin master`
 
-Create and checkout a new branch
+Create and checkout a new branch <br>
      `git checkout -b my_branch`
 
-When you do some changes
-     `git add ...
-      git commit -m "An informative message"`
+When you do some changes <br>
+     `git add ...`<br>
+      `git commit -m "An informative message"`
 
-Push your branch
+Push your branch <br>
       `git push -u origin my_branch`
 
-**nbstripout**
-Install the Python package npstripout to prevent Jupyter notebook output data from being committed to the repository.
+**nbstripout**<br>
+    Install the Python package npstripout to prevent Jupyter notebook output data from being committed to the repository.
