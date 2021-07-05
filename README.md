@@ -9,7 +9,7 @@ Binder link for advanced example using OSeMOSYS
 
 ## Developer notes
 Pull the latest changes from git
-git pull origin master
+'git pull origin master'
 
 Create and checkout a new branch
 git checkout -b my_branch
