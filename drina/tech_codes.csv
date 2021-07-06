@@ -1,0 +1,220 @@
+tech_code,tech_name,colour
+Coal inside Drina,Coal inside Drina,brown
+Coal outside Drina,Coal outside Drina,burlywood
+Wind inside Drina,Wind inside Drina,deeppink
+Wind outside Drina,Wind outside Drina,pink
+Hydro inside Drina,Hydro inside Drina,cadetblue
+Hydro outside Drina,Hydro outside Drina,blue
+Solar PV inside Drina,Solar PV inside Drina,yellowgreen
+Solar PV outside Drina,Solar PV outside Drina,yellow
+Backstop,Backstop,black
+Import,Import,gold
+Export,Export,red
+ALELME300,Electricity Traded from AL to ME,orchid
+ALELRS300,Electricity Traded from AL to RS,black
+BAHREL300,Electricity Trade from BA to HR,pink
+BGELRS300,Electricity Traded from BG to RS,brown
+HRELBA300,Electricity Traded from HR to BA,aliceblue
+HRELRS300,Electricity Traded from HR to RS,antiquewhite
+HUELRS300,Electricity Traded from HU to RS,aqua
+ITELME300,Electricity Traded from IT to ME,aquamarine
+MEELAL300,Electricity Traded from ME to AL,azure
+MEELIT300,Electricity Traded from ME to IT,beige
+MEELXK300,Electricity Traded from ME to XK,bisque
+MKELRS300,Electricity Traded from MK to RS,yellow
+ROELRS300,Electricity Traded from RO to RS,blanchedalmond
+RSELAL300,Electricity Traded from RS to AL,blue
+RSELBG300,Electricity Traded from RS to BG,blueviolet
+RSELHR300,Electricity Traded from RS to HR,brown
+RSELHU300,Electricity Traded from RS to HU,burlywood
+RSELMK300,Electricity Traded from RS to MK,cadetblue
+RSELRO300,Electricity Traded from RS to RO,chartreuse
+RSELXK300,Electricity Traded from RS to XK,chocolate
+XKELME300,Electricity Traded from XK to ME,coral
+XKELRS300,Electricity Traded from XK to RS,cornflowerblue
+BACO00000,BA Coal,cornsilk
+MECO00000,ME Coal,crimson
+RSCO00000,RS Coal,cyan
+BAEL10000,BA Electricity (From Power Plants to Transmission level),darkblue
+BAEL30000,BA Electricity (From Distribution level to Final),darkcyan
+MEEL10000,ME Electricity (From Power Plants to Transmission level),darkgoldenrod
+MEEL30000,ME Electricity (From Distribution level to Final),black
+RSEL10000,RS Electricity (From Power Plants to Transmission level),darkgrey
+RSEL30000,RS Electricity (From Distribution level to Final),darkgreen
+MEWTPARS2,ME - Water flow in Piva - River Segment 2,darkkhaki
+BAWTDRRS1,BA - Water flow in Drina - River Segment 1,darkmagenta
+BAWTDRRS2,BA - Water flow in Drina - River Segment 2,darkolivegreen
+BAWTDRRS6,BA - Water flow in Drina - River Segment 6,darkorange
+BAWTDRRS7,BA - Water flow in Drina - River Segment 7,darkorchid
+BAWTDRRS8,BA - Water flow in Drina - River Segment 8,darkred
+BAWTDRRS9,BA - Water flow in Drina - River Segment 9,darksalmon
+RSWTUCRS2,RS - Water flow in Uvac - River Segment 2,darkseagreen
+RSWTUCRS3,RS - Water flow in Uvac - River Segment 3,darkslateblue
+RSWTUCRS4,RS - Water flow in Uvac - River Segment 4,darkslategray
+RSWTUCLM1,RS - Water flow in Lim - River Segment 1,darkslategrey
+RSWTLMRS2,RS - Water flow in Lim - River Segment 2,darkturquoise
+BAWTDRRS3,BA - Water flow in Drina - River Segment 3,darkviolet
+BAWTDRRS4,BA - Water flow in Drina - River Segment 4,deeppink
+BAWTDRRS5,BA - Water flow in Drina - River Segment 5,deepskyblue
+BAWTDRRSX,BA - Water flow in Drina - River Segment 1.1,dimgray
+BAWTDRRSY,BA - Water flow in Drina - River Segment 2.2,dimgrey
+MEWTPIVA1,BA - Water flow Piva Reservoir,dodgerblue
+BAWTVISEG,BA - Water flow Visegrad Reservoir,firebrick
+RSWTBAJIN,BA - Water flow BajinaBasta Reservoir,floralwhite
+RSWTZVORN,BA - Water flow Zvornik Reservoir,forestgreen
+RSWTOUTFL,BA - Water flow Drina Outflow ,fuchsia
+RSWTUVAC1,BA - Water flow Uvac Reservoir,gainsboro
+RSWTKOKIN,BA - Water flow Kokin Brod Reservoir,ghostwhite
+RSWTBISTR,BA - Water flow Bistrica Reservoir,gold
+RSWTPOTPE,BA - Water flow Potpec Reservoir,goldenrod
+BAWTBUKBI,BA - Water flow Buk Bijela Reservoir,gray
+BAWTFOCA1,BA - Water flow Foca Reservoir,grey
+BAWTPAUNC,BA - Water flow Paunci Reservoir,green
+MESPIVA1,ME Piva reservoir,greenyellow
+BASVISEG,BA Visegrad reservoir,honeydew
+RSSBAJIN,RS BajinaBasta reservoir,hotpink
+RSSZVORN,RS Zvornik reservoir,black
+RSSUVAC1,RS Uvac reservoir,indigo
+RSSKOKIN,RS Kokin Brod reservoir,ivory
+RSSBISTR,RS Bistrica reservoir,khaki
+RSSPOTPE,RS Potpec reservoir,lavender
+RSSBUKBI,RS Buk Bijela reservoir,lavenderblush
+RSSFOCA1,RS Foca reservoir,lawngreen
+RSSPAUNC,RS Paunci reservoir,lemonchiffon
+BARCODM000,BA Coal extraction resource,lightblue
+MERCODM000,ME Coal extraction resource,lightcoral
+RSRCODM000,RS Coal extraction resource,lightcyan
+BAPELBS000,BA BACKSTOP TECHNOLOGY,lightgoldenrodyellow
+MEPELBS000,ME BACKSTOP TECHNOLOGY,lightgray
+RSPELBS000,RS BACKSTOP TECHNOLOGY,lightgrey
+BAPCOSCHO0,BA Coal TPP - Existing Outside DRB,lightgreen
+BAPCOSCHI0,BA Coal TPP - Existing Inside DRB,lightpink
+BAPCOSCNI0,BA Coal TPP - New Inside DRB,lightsalmon
+BAPCOSCNO0,BA Coal TPP - New Outside DRB,lightseagreen
+MEPCOSCHO0,ME Coal TPP - Existing Outside DRB,lightskyblue
+MEPCOSCHI0,ME Coal TPP - Existing Inside DRB,lightslategray
+MEPCOSCNI0,ME Coal TPP - New Inside DRB,lightslategrey
+MEPCOSCNO0,ME Coal TPP - New Outside DRB,lightsteelblue
+RSPCOSCHO0,RS Coal TPP - Existing Outside DRB,lightyellow
+RSPCOSCNO0,RS Coal TPP - New Outside DRB,lime
+BAPWI30HO0,BA Wind Turbine - Existing Outside DRB,limegreen
+BAPWI25HI0,BA Wind Turbine - Existing Inside DRB,linen
+BAPWI30NO0,BA Wind Turbine - New Outside DRB,magenta
+BAPWI25NI0,BA Wind Turbine - New Inside DRB,black
+MEPWI25HO0,ME Wind Turbine - Existing Outside DRB,mediumaquamarine
+MEPWI30HI0,ME Wind Turbine - Existing Inside DRB,mediumblue
+MEPWI25NO0,ME Wind Turbine - New Outside DRB,mediumorchid
+MEPWI30NO0,ME Wind Turbine - New Inside DRB,mediumpurple
+RSPWI30HO0,RS Wind Turbine - Existing Outside DRB,mediumseagreen
+RSPWI25HI0,RS Wind Turbine - Existing Inside DRB,mediumslateblue
+RSPWI30NO0,RS Wind Turbine - New Outside DRB,mediumspringgreen
+RSPWI25NI0,RS Wind Turbine - New Inside DRB,mediumturquoise
+BAPSOU1HO0,BA Solar PV - Existing Outside DRB,mediumvioletred
+BAPSOU1HI0,BA Solar PV - Existing Inside DRB,midnightblue
+BAPSOU1NI0,BA Solar PV - New Inside DRB,mintcream
+BAPSOU1NO0,BA Solar PV - New Outside DRB,mistyrose
+MEPSOU1HO0,ME Solar PV - Existing Outside DRB,moccasin
+MEPSOU1HI0,ME Solar PV - Existing Inside DRB,navajowhite
+MEPSOU1NI0,ME Solar PV - New Inside DRB,navy
+MEPSOU1NO0,ME Solar PV - New Outside DRB,oldlace
+RSPSOU1HO0,RS Solar PV - Existing Outside DRB,olive
+RSPSOU1HI0,RS Solar PV - Existing Inside DRB,olivedrab
+RSPSOU1NI0,RS Solar PV - New Inside DRB,orange
+RSPSOU1NO0,RS Solar PV - New Outside DRB,orangered
+BAPHYRRHO0,BA Hydro ROR-Existing Outside DRB,orchid
+BAPHYRRHI0,BA Hydro ROR-Existing Inside DRB,palegoldenrod
+BAPHYRRNO0,BA Hydro ROR-New Outside DRB,palegreen
+BAPHYRRNI0,BA Hydro ROR-New Inside DRB,paleturquoise
+MEPHYRRHO0,ME Hydro ROR-Existing Outside DRB,palevioletred
+MEPHYRRHI0,ME Hydro ROR-Existing Inside DRB,papayawhip
+MEPHYRRNO0,ME Hydro ROR-New Outside DRB,peachpuff
+MEPHYRRNI0,ME Hydro ROR-New Inside DRB,peru
+RSPHYRRHO0,RS Hydro ROR-Existing Outside DRB,pink
+RSPHYRRHI0,RS Hydro ROR-Existing Inside DRB,plum
+RSPHYRRNO0,RS Hydro ROR-New Outside DRB,powderblue
+RSPHYRRNI0,RS Hydro ROR-New Inside DRB,purple
+MECWTCT1PA,ME Piva inflow from Catchment 1,red
+BACWTCT1DR,BA Drina inflow from Catchment 13,rosybrown
+BACWTCT2DR,BA Drina inflow from Catchment 9,royalblue
+BACWTCT3DR,BA Drina inflow from Catchment 10,saddlebrown
+BACWTCT4DR,BA Drina inflow from Catchment 11,salmon
+BACWTCT5DR,BA Drina inflow from Catchment 12,sandybrown
+BACWTCT6DR,BA Drina inflow from Catchment 6,darksalmon
+BACWTCT7DR,BA Drina inflow from Catchment 7,darkseagreen
+BACWTCT8DR,BA Drina inflow from Catchment 8,darkslateblue
+RSCWTCT1UC,RS Uvac inflow from Catchment 2,darkslategray
+RSCWTCT2UC,RS Uvac inflow from Catchment 3,darkslategrey
+RSCWTCT3UC,RS Uvac inflow from Catchment 4,darkturquoise
+RSCWTCT1LM,RS Lim inflow from Catchment 5,darkviolet
+MECWTSP1PA,ME Piva HPP spillway,deeppink
+BACWTSP6DR,BA Buk Bijela HPP spillway,deepskyblue
+BACWTSP7DR,BA Foca HPP spillway,dimgray
+BACWTSP8DR,BA Paunci HPP spillway,dimgrey
+BACWTSP9DR,BA Visegrad HPP spillway,dodgerblue
+RSCWTSPXDR,RS Bajina Basta HPP spillway,firebrick
+RSCWTSPYDR,RS Zvornik HPP spillway,floralwhite
+RSCWTSP2UC,RS Uvac HPP spillway,forestgreen
+RSCWTSP3UC,RS Kokin Brod HPP spillway,fuchsia
+RSCWTSP4UC,RS Bistrica HPP spillway,gainsboro
+RSCWTSP5LM,RS Potpec HPP spillway,ghostwhite
+MEPHYDMHI1,ME Hydro dam-Piva HPP,gold
+BAPHYDMHI1,BA Hydro dam-Visegrad HPP,goldenrod
+RSPHYDMHI1,RS Hydro dam-BajinaBasta HPP,gray
+RSPHYDMHI2,RS Hydro dam-Zvornik HPP,grey
+RSPHYDMHI3,RS Hydro dam-Uvac HPP,green
+RSPHYDMHI4,RS Hydro dam-KokinBrod HPP,greenyellow
+RSPHYDMHI5,RS Hydro dam-Bistrica HPP,honeydew
+RSPHYDMHI6,RS Hydro dam-Potpec HPP,hotpink
+BAPHYDMHI2,BA Hydro dam-BukBijela HPP,black
+BAPHYDMHI3,BA Hydro dam-Foca HPP,indigo
+BAPHYDMHI4,BA Hydro dam-Paunci HPP,ivory
+BACWTRS1DR,BA Drina River Segment 1,khaki
+BACWTRSXDR,BA Drina River Segment 1.1,lavender
+BACWTRS3DR,BA Drina River Segment 3,lavenderblush
+BACWTRS4DR,BA Drina River Segment 4,lawngreen
+BACWTRS2DR,BA Drina River Segment 2,lemonchiffon
+BACWTRSYDR,BA Drina River Segment 2.2,lightblue
+BACWTRS5DR,BA Drina River Segment 5,lightcoral
+BACWTRS6DR,BA Drina River Segment 6,lightcyan
+BACWTRS7DR,BA Drina River Segment 7,lightgoldenrodyellow
+RSCWTRS8DR,RS Drina River Segment 8,lightgray
+RSCWTRS9DR,RS Drina River Segment 9,lightgrey
+MECWTRS1PA,ME Piva River Segment 1,lightgreen
+MECWTRS2PA,ME Piva River Segment 2,lightpink
+MECWTRS1TA,ME Tara River Segment 1,lightsalmon
+MECWTRS1CE,ME Cehotina River Segment 1,lightseagreen
+RSCWTRS1UC,RS Uvac River Segment 1,lightskyblue
+RSCWTRS2UC,RS Uvac River Segment 2,lightslategray
+RSCWTRS3UC,RS Uvac River Segment 3,lightslategrey
+RSCWTRS4UC,RS Uvac River Segment 4,lightsteelblue
+RSCWTRS1LM,RS Lim River Segment 1,lightyellow
+RSCWTRS2LM,RS Lim River Segment 2,lime
+RSCWTRSZUL,RS Uvac/Lim River Segment,limegreen
+ALTRDMEH00,AL to ME trade line,linen
+ALTRDRSH00,AL to RS trade line,magenta
+BATRDHRH00,BA to HR trade line,black
+BATRDMEH00,BA to ME trade line,mediumaquamarine
+BATRDRSH00,BA to RS trade line,mediumblue
+BGTRDRSH00,BG to RS  trade line,mediumorchid
+HRTRDBAH00,HR to BA  trade line,mediumpurple
+HRTRDRSH00,HR to RS trade line,mediumseagreen
+HUTRDRSH00,HU to RS trade line,mediumslateblue
+ITTRDMEH00,IT to ME trade line,mediumspringgreen
+METRDALH00,ME to AL trade line,mediumturquoise
+METRDBAH00,ME to BA trade line,mediumvioletred
+METRDITH00,ME to IT trade line,midnightblue
+METRDRSH00,ME to RS trade line,mintcream
+METRDXKH00,ME to XK trade line,mistyrose
+MKTRDRSH00,MK to RS trade line,moccasin
+ROTRDRSH00,RO to RS trade line,navajowhite
+RSTRDALH00,RS to AL trade line,navy
+RSTRDBAH00,RS to BA trade line,oldlace
+RSTRDBGH00,RS to BG trade line,olive
+RSTRDHRH00,RS to HR trade line,olivedrab
+RSTRDHUH00,RS to HU trade line,orange
+RSTRDMEH00,RS to ME trade line,orangered
+RSTRDMKH00,RS to MK trade line,orchid
+RSTRDROH00,RS to RO trade line,palegoldenrod
+RSTRDXKH00,RS to XK trade line,palegreen
+XKTRDMEH00,XK to ME trade line,paleturquoise
+XKTRDRSH00,XK to RS trade line,palevioletred
