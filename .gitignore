@@ -4,7 +4,7 @@ temp.txt
 
 #drin and drina
 drin/*
-drina/
+#drina/
 
 # Development
 .vscode
