@@ -1,5 +1,8 @@
 graph_title='Cumulative savings in electricity impacts (2025-2050) in Albania'
 
+df_sk2 = df_sk.loc[(df_sk['country']=='Albania')&(df_sk['tech']=='AL-Import')]
+df_sk2 = df_sk2.groupby(['country','tech','year','scenario']).mean().reset_index()
+
 df_sk2a = df_sk2.groupby(['scenario']).sum().round(2).reset_index()
 
 fig3b = px.bar(df_sk2a, x='scenario', y='value', text='value', color='scenario', facet_col_wrap=2, barmode='group', 
