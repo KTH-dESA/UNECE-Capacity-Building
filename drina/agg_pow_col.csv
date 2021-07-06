@@ -1,18 +1,18 @@
 Coal inside Drina,Coal outside Drina,Wind inside Drina,Wind outside Drina,Hydro inside Drina,Hydro outside Drina,Solar PV inside Drina,Solar PV outside Drina,Backstop,Import,Export
-"ME, Coal TPP - Existing Inside DRB","ME, Coal TPP - Existing Outside DRB","ME, Wind Turbine - New Inside DRB","ME, Wind Turbine - Existing Outside DRB","ME, Hydro ROR-Existing Inside DRB","ME, Hydro ROR-Existing Outside DRB","ME, Solar PV - Existing Inside DRB","ME, Solar PV - New Outside DRB","BA, BACKSTOP TECHNOLOGY",XK to ME trade line,RS to MK trade line
-"ME, Coal TPP - New Inside DRB","ME, Coal TPP - New Outside DRB","ME, Wind Turbine - Existing Inside DRB","ME, Wind Turbine - New Outside DRB","ME, Hydro ROR-New Inside DRB","ME, Hydro ROR-New Outside DRB","ME, Solar PV - New Inside DRB","ME, Solar PV - Existing Outside DRB","ME, BACKSTOP TECHNOLOGY",XK to RS trade line,RS to RO trade line
-"BA, Coal TPP - New Inside DRB","BA, Coal TPP - Existing Outside DRB","BA, Wind Turbine - Existing Inside DRB","BA, Wind Turbine - Existing Outside DRB","ME, Hydro dam-Piva HPP","BA, Hydro ROR-Existing Outside DRB","BA, Solar PV - Existing Inside DRB","BA, Solar PV - Existing Outside DRB","RS, BACKSTOP TECHNOLOGY",HR to BA  trade line,RS to XK trade line
-"BA, Coal TPP - Existing Inside DRB","BA, Coal TPP - New Outside DRB","BA, Wind Turbine - New Inside DRB","BA, Wind Turbine - New Outside DRB","BA, Hydro ROR-Existing Inside DRB","BA, Hydro ROR-New Outside DRB","BA, Solar PV - New Inside DRB","BA, Solar PV - New Outside DRB",,HR to RS trade line,RS to AL trade line
-,"RS, Coal TPP - Existing Outside DRB","RS, Wind Turbine - Existing Inside DRB","RS, Wind Turbine - Existing Outside DRB","BA, Hydro ROR-New Inside DRB","RS, Hydro ROR-Existing Outside DRB","RS, Solar PV - Existing Inside DRB","RS, Solar PV - Existing Outside DRB",,HU to RS trade line,ME to AL trade line
-,"RS, Coal TPP - New Outside DRB","RS, Wind Turbine - New Inside DRB","RS, Wind Turbine - New Outside DRB","RS, Hydro ROR-Existing Inside DRB","RS, Hydro ROR-New Outside DRB","RS, Solar PV - New Inside DRB","RS, Solar PV - New Outside DRB",,IT to ME trade line,BA to HR trade line
-,,,,"RS, Hydro ROR-New Inside DRB",,,,,MK to RS trade line,RS to BG trade line
-,,,,"BA, Hydro dam-Visegrad HPP",,,,,RO to RS trade line,RS to HR trade line
-,,,,"RS, Hydro dam-BajinaBasta HPP",,,,,AL to ME trade line,RS to HU trade line
-,,,,"RS, Hydro dam-Zvornik HPP",,,,,AL to RS trade line,ME to IT trade line
-,,,,"RS, Hydro dam-Uvac HPP",,,,,BG to RS  trade line,ME to XK trade line
-,,,,"RS, Hydro dam-KokinBrod HPP",,,,,BA to ME trade line,
-,,,,"RS, Hydro dam-Bistrica HPP",,,,,BA to RS trade line,
-,,,,"RS, Hydro dam-Potpec HPP",,,,,ME to BA trade line,
-,,,,"BA, Hydro dam-BukBijela HPP",,,,,ME to RS trade line,
-,,,,"BA, Hydro dam-Foca HPP",,,,,RS to BA trade line,
-,,,,"BA, Hydro dam-Paunci HPP",,,,,RS to ME trade line,
+ME Coal TPP - Existing Inside DRB,ME Coal TPP - Existing Outside DRB,ME Wind Turbine - New Inside DRB,ME Wind Turbine - Existing Outside DRB,ME Hydro ROR-Existing Inside DRB,ME Hydro ROR-Existing Outside DRB,ME Solar PV - Existing Inside DRB,ME Solar PV - New Outside DRB,BA BACKSTOP TECHNOLOGY,XK to ME trade line,RS to MK trade line
+ME Coal TPP - New Inside DRB,ME Coal TPP - New Outside DRB,ME Wind Turbine - Existing Inside DRB,ME Wind Turbine - New Outside DRB,ME Hydro ROR-New Inside DRB,ME Hydro ROR-New Outside DRB,ME Solar PV - New Inside DRB,ME Solar PV - Existing Outside DRB,ME BACKSTOP TECHNOLOGY,XK to RS trade line,RS to RO trade line
+BA Coal TPP - New Inside DRB,BA Coal TPP - Existing Outside DRB,BA Wind Turbine - Existing Inside DRB,BA Wind Turbine - Existing Outside DRB,ME Hydro dam-Piva HPP,BA Hydro ROR-Existing Outside DRB,BA Solar PV - Existing Inside DRB,BA Solar PV - Existing Outside DRB,RS BACKSTOP TECHNOLOGY,HR to BA  trade line,RS to XK trade line
+BA Coal TPP - Existing Inside DRB,BA Coal TPP - New Outside DRB,BA Wind Turbine - New Inside DRB,BA Wind Turbine - New Outside DRB,BA Hydro ROR-Existing Inside DRB,BA Hydro ROR-New Outside DRB,BA Solar PV - New Inside DRB,BA Solar PV - New Outside DRB,,HR to RS trade line,RS to AL trade line
+,RS Coal TPP - Existing Outside DRB,RS Wind Turbine - Existing Inside DRB,RS Wind Turbine - Existing Outside DRB,BA Hydro ROR-New Inside DRB,RS Hydro ROR-Existing Outside DRB,RS Solar PV - Existing Inside DRB,RS Solar PV - Existing Outside DRB,,HU to RS trade line,ME to AL trade line
+,RS Coal TPP - New Outside DRB,RS Wind Turbine - New Inside DRB,RS Wind Turbine - New Outside DRB,RS Hydro ROR-Existing Inside DRB,RS Hydro ROR-New Outside DRB,RS Solar PV - New Inside DRB,RS Solar PV - New Outside DRB,,IT to ME trade line,BA to HR trade line
+,,,,RS Hydro ROR-New Inside DRB,,,,,MK to RS trade line,RS to BG trade line
+,,,,BA Hydro dam-Visegrad HPP,,,,,RO to RS trade line,RS to HR trade line
+,,,,RS Hydro dam-BajinaBasta HPP,,,,,AL to ME trade line,RS to HU trade line
+,,,,RS Hydro dam-Zvornik HPP,,,,,AL to RS trade line,ME to IT trade line
+,,,,RS Hydro dam-Uvac HPP,,,,,BG to RS  trade line,ME to XK trade line
+,,,,RS Hydro dam-KokinBrod HPP,,,,,,
+,,,,RS Hydro dam-Bistrica HPP,,,,,,
+,,,,RS Hydro dam-Potpec HPP,,,,,,
+,,,,BA Hydro dam-BukBijela HPP,,,,,,
+,,,,BA Hydro dam-Foca HPP,,,,,,
+,,,,BA Hydro dam-Paunci HPP,,,,,,
