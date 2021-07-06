@@ -189,8 +189,8 @@ check{r in REGION, t in TECHNOLOGY, y in YEAR:TotalAnnualMaxCapacity[r,t,y]<>0 &
 #####    'Time Slice' check     #####
 printf "Checking TimeSlices/YearSplits for y in YEAR \n";
 #
-check{y in YEAR}: sum{l in TIMESLICE} YearSplit[l,y] >= 0.9999;
-check{y in YEAR}: sum{l in TIMESLICE} YearSplit[l,y] <= 1.0001;
+check{y in YEAR}: sum{l in TIMESLICE} YearSplit[l,y] >= 0.99;
+check{y in YEAR}: sum{l in TIMESLICE} YearSplit[l,y] <= 1.01;
 #
 #####   'Model period activity limit' check   #####
 printf "Checking Model period activity bounds for r in REGION, t in TECHNOLOGY \n";
