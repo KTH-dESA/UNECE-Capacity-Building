@@ -1,0 +1,264 @@
+scenario,country,tech,year,value
+res,Bosnia and Herzegovina,BukBijela,2025,304.75
+res,Bosnia and Herzegovina,BukBijela,2026,340.33
+res,Bosnia and Herzegovina,BukBijela,2027,297.94
+res,Bosnia and Herzegovina,BukBijela,2028,312.58
+res,Bosnia and Herzegovina,BukBijela,2029,307.83
+res,Bosnia and Herzegovina,BukBijela,2030,305.47
+res,Bosnia and Herzegovina,BukBijela,2031,308.11
+res,Bosnia and Herzegovina,BukBijela,2032,305.0
+res,Bosnia and Herzegovina,BukBijela,2033,306.56
+res,Bosnia and Herzegovina,BukBijela,2034,306.56
+res,Bosnia and Herzegovina,BukBijela,2035,306.56
+res,Bosnia and Herzegovina,BukBijela,2036,306.31
+res,Bosnia and Herzegovina,BukBijela,2037,300.5
+res,Bosnia and Herzegovina,BukBijela,2038,303.92
+res,Bosnia and Herzegovina,BukBijela,2039,300.14
+res,Bosnia and Herzegovina,BukBijela,2040,303.31
+res,Bosnia and Herzegovina,BukBijela,2041,306.81
+res,Bosnia and Herzegovina,BukBijela,2042,306.56
+res,Bosnia and Herzegovina,BukBijela,2043,306.56
+res,Bosnia and Herzegovina,BukBijela,2044,306.56
+res,Bosnia and Herzegovina,BukBijela,2045,275.28
+res,Bosnia and Herzegovina,Foca,2025,164.61
+res,Bosnia and Herzegovina,Foca,2026,181.64
+res,Bosnia and Herzegovina,Foca,2027,161.17
+res,Bosnia and Herzegovina,Foca,2028,168.19
+res,Bosnia and Herzegovina,Foca,2029,165.83
+res,Bosnia and Herzegovina,Foca,2030,164.81
+res,Bosnia and Herzegovina,Foca,2031,166.08
+res,Bosnia and Herzegovina,Foca,2032,164.56
+res,Bosnia and Herzegovina,Foca,2033,165.33
+res,Bosnia and Herzegovina,Foca,2034,165.33
+res,Bosnia and Herzegovina,Foca,2035,165.33
+res,Bosnia and Herzegovina,Foca,2036,165.33
+res,Bosnia and Herzegovina,Foca,2037,162.44
+res,Bosnia and Herzegovina,Foca,2038,164.06
+res,Bosnia and Herzegovina,Foca,2039,162.22
+res,Bosnia and Herzegovina,Foca,2040,163.75
+res,Bosnia and Herzegovina,Foca,2041,165.44
+res,Bosnia and Herzegovina,Foca,2042,165.33
+res,Bosnia and Herzegovina,Foca,2043,165.33
+res,Bosnia and Herzegovina,Foca,2044,165.33
+res,Bosnia and Herzegovina,Foca,2045,150.31
+res,Bosnia and Herzegovina,Paunci,2025,159.67
+res,Bosnia and Herzegovina,Paunci,2026,172.97
+res,Bosnia and Herzegovina,Paunci,2027,156.89
+res,Bosnia and Herzegovina,Paunci,2028,162.39
+res,Bosnia and Herzegovina,Paunci,2029,160.53
+res,Bosnia and Herzegovina,Paunci,2030,159.75
+res,Bosnia and Herzegovina,Paunci,2031,160.72
+res,Bosnia and Herzegovina,Paunci,2032,159.56
+res,Bosnia and Herzegovina,Paunci,2033,160.14
+res,Bosnia and Herzegovina,Paunci,2034,160.14
+res,Bosnia and Herzegovina,Paunci,2035,160.14
+res,Bosnia and Herzegovina,Paunci,2036,160.14
+res,Bosnia and Herzegovina,Paunci,2037,157.89
+res,Bosnia and Herzegovina,Paunci,2038,159.14
+res,Bosnia and Herzegovina,Paunci,2039,157.69
+res,Bosnia and Herzegovina,Paunci,2040,158.92
+res,Bosnia and Herzegovina,Paunci,2041,160.25
+res,Bosnia and Herzegovina,Paunci,2042,160.14
+res,Bosnia and Herzegovina,Paunci,2043,160.14
+res,Bosnia and Herzegovina,Paunci,2044,160.14
+res,Bosnia and Herzegovina,Paunci,2045,148.39
+res,Bosnia and Herzegovina,Visegrad,2021,1102.31
+res,Bosnia and Herzegovina,Visegrad,2022,1087.75
+res,Bosnia and Herzegovina,Visegrad,2023,1087.75
+res,Bosnia and Herzegovina,Visegrad,2024,1038.33
+res,Bosnia and Herzegovina,Visegrad,2025,1183.64
+res,Bosnia and Herzegovina,Visegrad,2026,1241.95
+res,Bosnia and Herzegovina,Visegrad,2027,1173.53
+res,Bosnia and Herzegovina,Visegrad,2028,1195.06
+res,Bosnia and Herzegovina,Visegrad,2029,1183.08
+res,Bosnia and Herzegovina,Visegrad,2030,1184.0
+res,Bosnia and Herzegovina,Visegrad,2031,1192.39
+res,Bosnia and Herzegovina,Visegrad,2032,1183.22
+res,Bosnia and Herzegovina,Visegrad,2033,1181.39
+res,Bosnia and Herzegovina,Visegrad,2034,1189.28
+res,Bosnia and Herzegovina,Visegrad,2035,1185.36
+res,Bosnia and Herzegovina,Visegrad,2036,1186.64
+res,Bosnia and Herzegovina,Visegrad,2037,1176.28
+res,Bosnia and Herzegovina,Visegrad,2038,1181.53
+res,Bosnia and Herzegovina,Visegrad,2039,1175.53
+res,Bosnia and Herzegovina,Visegrad,2040,1180.56
+res,Bosnia and Herzegovina,Visegrad,2041,1186.08
+res,Bosnia and Herzegovina,Visegrad,2042,1181.39
+res,Bosnia and Herzegovina,Visegrad,2043,1185.67
+res,Bosnia and Herzegovina,Visegrad,2044,1185.67
+res,Bosnia and Herzegovina,Visegrad,2045,1086.56
+res,Montenegro,Piva,2021,611.03
+res,Montenegro,Piva,2022,603.19
+res,Montenegro,Piva,2023,603.19
+res,Montenegro,Piva,2024,428.69
+res,Montenegro,Piva,2025,588.86
+res,Montenegro,Piva,2026,792.06
+res,Montenegro,Piva,2027,555.14
+res,Montenegro,Piva,2028,641.28
+res,Montenegro,Piva,2029,610.42
+res,Montenegro,Piva,2030,597.28
+res,Montenegro,Piva,2031,611.89
+res,Montenegro,Piva,2032,594.53
+res,Montenegro,Piva,2033,603.19
+res,Montenegro,Piva,2034,603.19
+res,Montenegro,Piva,2035,603.19
+res,Montenegro,Piva,2036,597.53
+res,Montenegro,Piva,2037,569.5
+res,Montenegro,Piva,2038,588.58
+res,Montenegro,Piva,2039,567.36
+res,Montenegro,Piva,2040,585.11
+res,Montenegro,Piva,2041,604.72
+res,Montenegro,Piva,2042,601.78
+res,Montenegro,Piva,2043,601.78
+res,Montenegro,Piva,2044,601.78
+res,Montenegro,Piva,2045,426.58
+res,Republic of Serbia,BajinaBasta,2021,1645.14
+res,Republic of Serbia,BajinaBasta,2022,1624.72
+res,Republic of Serbia,BajinaBasta,2023,1624.72
+res,Republic of Serbia,BajinaBasta,2024,1555.36
+res,Republic of Serbia,BajinaBasta,2025,1759.33
+res,Republic of Serbia,BajinaBasta,2026,1841.14
+res,Republic of Serbia,BajinaBasta,2027,1745.11
+res,Republic of Serbia,BajinaBasta,2028,1775.33
+res,Republic of Serbia,BajinaBasta,2029,1758.5
+res,Republic of Serbia,BajinaBasta,2030,1759.81
+res,Republic of Serbia,BajinaBasta,2031,1771.61
+res,Republic of Serbia,BajinaBasta,2032,1758.7
+res,Republic of Serbia,BajinaBasta,2033,1756.17
+res,Republic of Serbia,BajinaBasta,2034,1767.22
+res,Republic of Serbia,BajinaBasta,2035,1761.75
+res,Republic of Serbia,BajinaBasta,2036,1763.5
+res,Republic of Serbia,BajinaBasta,2037,1748.97
+res,Republic of Serbia,BajinaBasta,2038,1756.33
+res,Republic of Serbia,BajinaBasta,2039,1747.92
+res,Republic of Serbia,BajinaBasta,2040,1754.97
+res,Republic of Serbia,BajinaBasta,2041,1762.75
+res,Republic of Serbia,BajinaBasta,2042,1756.17
+res,Republic of Serbia,BajinaBasta,2043,1762.17
+res,Republic of Serbia,BajinaBasta,2044,1762.17
+res,Republic of Serbia,BajinaBasta,2045,1588.11
+res,Republic of Serbia,Bistrica,2021,514.86
+res,Republic of Serbia,Bistrica,2022,422.33
+res,Republic of Serbia,Bistrica,2023,422.33
+res,Republic of Serbia,Bistrica,2024,422.33
+res,Republic of Serbia,Bistrica,2025,422.33
+res,Republic of Serbia,Bistrica,2026,443.36
+res,Republic of Serbia,Bistrica,2027,433.39
+res,Republic of Serbia,Bistrica,2028,422.33
+res,Republic of Serbia,Bistrica,2029,390.28
+res,Republic of Serbia,Bistrica,2030,422.33
+res,Republic of Serbia,Bistrica,2031,454.42
+res,Republic of Serbia,Bistrica,2032,422.33
+res,Republic of Serbia,Bistrica,2033,390.28
+res,Republic of Serbia,Bistrica,2034,449.39
+res,Republic of Serbia,Bistrica,2035,420.11
+res,Republic of Serbia,Bistrica,2036,429.58
+res,Republic of Serbia,Bistrica,2037,422.33
+res,Republic of Serbia,Bistrica,2038,422.33
+res,Republic of Serbia,Bistrica,2039,422.33
+res,Republic of Serbia,Bistrica,2040,422.33
+res,Republic of Serbia,Bistrica,2041,422.33
+res,Republic of Serbia,Bistrica,2042,390.28
+res,Republic of Serbia,Bistrica,2043,422.33
+res,Republic of Serbia,Bistrica,2044,422.33
+res,Republic of Serbia,Bistrica,2045,147.92
+res,Republic of Serbia,KokinBrod,2021,83.67
+res,Republic of Serbia,KokinBrod,2022,68.06
+res,Republic of Serbia,KokinBrod,2023,68.06
+res,Republic of Serbia,KokinBrod,2024,68.06
+res,Republic of Serbia,KokinBrod,2025,68.06
+res,Republic of Serbia,KokinBrod,2026,71.61
+res,Republic of Serbia,KokinBrod,2027,69.92
+res,Republic of Serbia,KokinBrod,2028,68.06
+res,Republic of Serbia,KokinBrod,2029,62.64
+res,Republic of Serbia,KokinBrod,2030,68.06
+res,Republic of Serbia,KokinBrod,2031,73.47
+res,Republic of Serbia,KokinBrod,2032,68.06
+res,Republic of Serbia,KokinBrod,2033,62.64
+res,Republic of Serbia,KokinBrod,2034,72.61
+res,Republic of Serbia,KokinBrod,2035,67.67
+res,Republic of Serbia,KokinBrod,2036,69.28
+res,Republic of Serbia,KokinBrod,2037,68.06
+res,Republic of Serbia,KokinBrod,2038,68.06
+res,Republic of Serbia,KokinBrod,2039,68.06
+res,Republic of Serbia,KokinBrod,2040,68.06
+res,Republic of Serbia,KokinBrod,2041,68.06
+res,Republic of Serbia,KokinBrod,2042,62.64
+res,Republic of Serbia,KokinBrod,2043,68.06
+res,Republic of Serbia,KokinBrod,2044,68.06
+res,Republic of Serbia,KokinBrod,2045,22.28
+res,Republic of Serbia,Potpec,2021,272.08
+res,Republic of Serbia,Potpec,2022,272.08
+res,Republic of Serbia,Potpec,2023,272.08
+res,Republic of Serbia,Potpec,2024,272.08
+res,Republic of Serbia,Potpec,2025,272.08
+res,Republic of Serbia,Potpec,2026,272.08
+res,Republic of Serbia,Potpec,2027,272.08
+res,Republic of Serbia,Potpec,2028,272.08
+res,Republic of Serbia,Potpec,2029,272.08
+res,Republic of Serbia,Potpec,2030,272.08
+res,Republic of Serbia,Potpec,2031,272.08
+res,Republic of Serbia,Potpec,2032,272.08
+res,Republic of Serbia,Potpec,2033,272.08
+res,Republic of Serbia,Potpec,2034,272.08
+res,Republic of Serbia,Potpec,2035,272.08
+res,Republic of Serbia,Potpec,2036,272.08
+res,Republic of Serbia,Potpec,2037,272.08
+res,Republic of Serbia,Potpec,2038,272.08
+res,Republic of Serbia,Potpec,2039,272.08
+res,Republic of Serbia,Potpec,2040,272.08
+res,Republic of Serbia,Potpec,2041,272.08
+res,Republic of Serbia,Potpec,2042,272.08
+res,Republic of Serbia,Potpec,2043,272.08
+res,Republic of Serbia,Potpec,2044,272.08
+res,Republic of Serbia,Potpec,2045,270.36
+res,Republic of Serbia,Uvac,2021,86.56
+res,Republic of Serbia,Uvac,2022,86.56
+res,Republic of Serbia,Uvac,2023,86.56
+res,Republic of Serbia,Uvac,2024,86.56
+res,Republic of Serbia,Uvac,2025,86.56
+res,Republic of Serbia,Uvac,2026,86.56
+res,Republic of Serbia,Uvac,2027,86.56
+res,Republic of Serbia,Uvac,2028,86.56
+res,Republic of Serbia,Uvac,2029,86.56
+res,Republic of Serbia,Uvac,2030,86.56
+res,Republic of Serbia,Uvac,2031,86.56
+res,Republic of Serbia,Uvac,2032,86.56
+res,Republic of Serbia,Uvac,2033,86.56
+res,Republic of Serbia,Uvac,2034,86.56
+res,Republic of Serbia,Uvac,2035,86.56
+res,Republic of Serbia,Uvac,2036,86.56
+res,Republic of Serbia,Uvac,2037,86.56
+res,Republic of Serbia,Uvac,2038,86.56
+res,Republic of Serbia,Uvac,2039,86.56
+res,Republic of Serbia,Uvac,2040,86.56
+res,Republic of Serbia,Uvac,2041,86.56
+res,Republic of Serbia,Uvac,2042,86.56
+res,Republic of Serbia,Uvac,2043,86.56
+res,Republic of Serbia,Uvac,2044,86.56
+res,Republic of Serbia,Uvac,2045,49.17
+res,Republic of Serbia,Zvornik,2021,498.03
+res,Republic of Serbia,Zvornik,2022,492.36
+res,Republic of Serbia,Zvornik,2023,492.36
+res,Republic of Serbia,Zvornik,2024,473.19
+res,Republic of Serbia,Zvornik,2025,529.64
+res,Republic of Serbia,Zvornik,2026,552.28
+res,Republic of Serbia,Zvornik,2027,525.69
+res,Republic of Serbia,Zvornik,2028,534.06
+res,Republic of Serbia,Zvornik,2029,529.42
+res,Republic of Serbia,Zvornik,2030,529.75
+res,Republic of Serbia,Zvornik,2031,533.03
+res,Republic of Serbia,Zvornik,2032,529.44
+res,Republic of Serbia,Zvornik,2033,528.75
+res,Republic of Serbia,Zvornik,2034,531.81
+res,Republic of Serbia,Zvornik,2035,530.31
+res,Republic of Serbia,Zvornik,2036,530.78
+res,Republic of Serbia,Zvornik,2037,526.75
+res,Republic of Serbia,Zvornik,2038,528.81
+res,Republic of Serbia,Zvornik,2039,526.47
+res,Republic of Serbia,Zvornik,2040,528.42
+res,Republic of Serbia,Zvornik,2041,530.58
+res,Republic of Serbia,Zvornik,2042,528.75
+res,Republic of Serbia,Zvornik,2043,530.42
+res,Republic of Serbia,Zvornik,2044,530.42
+res,Republic of Serbia,Zvornik,2045,481.31

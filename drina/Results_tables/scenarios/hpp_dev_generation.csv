@@ -1,0 +1,264 @@
+scenario,country,tech,year,value
+hpp_dev,Bosnia and Herzegovina,BukBijela,2025,304.06
+hpp_dev,Bosnia and Herzegovina,BukBijela,2026,341.06
+hpp_dev,Bosnia and Herzegovina,BukBijela,2027,297.94
+hpp_dev,Bosnia and Herzegovina,BukBijela,2028,312.58
+hpp_dev,Bosnia and Herzegovina,BukBijela,2029,302.28
+hpp_dev,Bosnia and Herzegovina,BukBijela,2030,308.64
+hpp_dev,Bosnia and Herzegovina,BukBijela,2031,310.47
+hpp_dev,Bosnia and Herzegovina,BukBijela,2032,305.0
+hpp_dev,Bosnia and Herzegovina,BukBijela,2033,306.31
+hpp_dev,Bosnia and Herzegovina,BukBijela,2034,304.75
+hpp_dev,Bosnia and Herzegovina,BukBijela,2035,307.61
+hpp_dev,Bosnia and Herzegovina,BukBijela,2036,307.31
+hpp_dev,Bosnia and Herzegovina,BukBijela,2037,306.78
+hpp_dev,Bosnia and Herzegovina,BukBijela,2038,306.56
+hpp_dev,Bosnia and Herzegovina,BukBijela,2039,306.56
+hpp_dev,Bosnia and Herzegovina,BukBijela,2040,306.56
+hpp_dev,Bosnia and Herzegovina,BukBijela,2041,306.94
+hpp_dev,Bosnia and Herzegovina,BukBijela,2042,306.94
+hpp_dev,Bosnia and Herzegovina,BukBijela,2043,306.94
+hpp_dev,Bosnia and Herzegovina,BukBijela,2044,306.94
+hpp_dev,Bosnia and Herzegovina,BukBijela,2045,255.44
+hpp_dev,Bosnia and Herzegovina,Foca,2025,164.28
+hpp_dev,Bosnia and Herzegovina,Foca,2026,181.97
+hpp_dev,Bosnia and Herzegovina,Foca,2027,161.17
+hpp_dev,Bosnia and Herzegovina,Foca,2028,168.19
+hpp_dev,Bosnia and Herzegovina,Foca,2029,163.31
+hpp_dev,Bosnia and Herzegovina,Foca,2030,166.33
+hpp_dev,Bosnia and Herzegovina,Foca,2031,167.06
+hpp_dev,Bosnia and Herzegovina,Foca,2032,164.56
+hpp_dev,Bosnia and Herzegovina,Foca,2033,165.33
+hpp_dev,Bosnia and Herzegovina,Foca,2034,164.44
+hpp_dev,Bosnia and Herzegovina,Foca,2035,165.83
+hpp_dev,Bosnia and Herzegovina,Foca,2036,165.69
+hpp_dev,Bosnia and Herzegovina,Foca,2037,165.33
+hpp_dev,Bosnia and Herzegovina,Foca,2038,165.33
+hpp_dev,Bosnia and Herzegovina,Foca,2039,165.33
+hpp_dev,Bosnia and Herzegovina,Foca,2040,165.33
+hpp_dev,Bosnia and Herzegovina,Foca,2041,165.5
+hpp_dev,Bosnia and Herzegovina,Foca,2042,165.5
+hpp_dev,Bosnia and Herzegovina,Foca,2043,165.5
+hpp_dev,Bosnia and Herzegovina,Foca,2044,165.5
+hpp_dev,Bosnia and Herzegovina,Foca,2045,140.89
+hpp_dev,Bosnia and Herzegovina,Paunci,2025,159.39
+hpp_dev,Bosnia and Herzegovina,Paunci,2026,173.22
+hpp_dev,Bosnia and Herzegovina,Paunci,2027,156.89
+hpp_dev,Bosnia and Herzegovina,Paunci,2028,162.39
+hpp_dev,Bosnia and Herzegovina,Paunci,2029,158.56
+hpp_dev,Bosnia and Herzegovina,Paunci,2030,160.94
+hpp_dev,Bosnia and Herzegovina,Paunci,2031,161.5
+hpp_dev,Bosnia and Herzegovina,Paunci,2032,159.56
+hpp_dev,Bosnia and Herzegovina,Paunci,2033,160.14
+hpp_dev,Bosnia and Herzegovina,Paunci,2034,159.44
+hpp_dev,Bosnia and Herzegovina,Paunci,2035,160.53
+hpp_dev,Bosnia and Herzegovina,Paunci,2036,160.42
+hpp_dev,Bosnia and Herzegovina,Paunci,2037,160.14
+hpp_dev,Bosnia and Herzegovina,Paunci,2038,160.14
+hpp_dev,Bosnia and Herzegovina,Paunci,2039,160.14
+hpp_dev,Bosnia and Herzegovina,Paunci,2040,160.14
+hpp_dev,Bosnia and Herzegovina,Paunci,2041,160.28
+hpp_dev,Bosnia and Herzegovina,Paunci,2042,160.28
+hpp_dev,Bosnia and Herzegovina,Paunci,2043,160.28
+hpp_dev,Bosnia and Herzegovina,Paunci,2044,160.28
+hpp_dev,Bosnia and Herzegovina,Paunci,2045,141.0
+hpp_dev,Bosnia and Herzegovina,Visegrad,2021,1102.31
+hpp_dev,Bosnia and Herzegovina,Visegrad,2022,1087.75
+hpp_dev,Bosnia and Herzegovina,Visegrad,2023,1087.75
+hpp_dev,Bosnia and Herzegovina,Visegrad,2024,1038.33
+hpp_dev,Bosnia and Herzegovina,Visegrad,2025,1182.53
+hpp_dev,Bosnia and Herzegovina,Visegrad,2026,1240.25
+hpp_dev,Bosnia and Herzegovina,Visegrad,2027,1176.33
+hpp_dev,Bosnia and Herzegovina,Visegrad,2028,1195.06
+hpp_dev,Bosnia and Herzegovina,Visegrad,2029,1174.81
+hpp_dev,Bosnia and Herzegovina,Visegrad,2030,1189.0
+hpp_dev,Bosnia and Herzegovina,Visegrad,2031,1191.39
+hpp_dev,Bosnia and Herzegovina,Visegrad,2032,1183.22
+hpp_dev,Bosnia and Herzegovina,Visegrad,2033,1185.67
+hpp_dev,Bosnia and Herzegovina,Visegrad,2034,1182.81
+hpp_dev,Bosnia and Herzegovina,Visegrad,2035,1187.33
+hpp_dev,Bosnia and Herzegovina,Visegrad,2036,1186.86
+hpp_dev,Bosnia and Herzegovina,Visegrad,2037,1185.67
+hpp_dev,Bosnia and Herzegovina,Visegrad,2038,1185.67
+hpp_dev,Bosnia and Herzegovina,Visegrad,2039,1185.67
+hpp_dev,Bosnia and Herzegovina,Visegrad,2040,1185.67
+hpp_dev,Bosnia and Herzegovina,Visegrad,2041,1186.28
+hpp_dev,Bosnia and Herzegovina,Visegrad,2042,1186.28
+hpp_dev,Bosnia and Herzegovina,Visegrad,2043,1186.28
+hpp_dev,Bosnia and Herzegovina,Visegrad,2044,1183.95
+hpp_dev,Bosnia and Herzegovina,Visegrad,2045,1058.06
+hpp_dev,Montenegro,Piva,2021,611.03
+hpp_dev,Montenegro,Piva,2022,603.19
+hpp_dev,Montenegro,Piva,2023,603.19
+hpp_dev,Montenegro,Piva,2024,428.69
+hpp_dev,Montenegro,Piva,2025,584.89
+hpp_dev,Montenegro,Piva,2026,796.03
+hpp_dev,Montenegro,Piva,2027,555.14
+hpp_dev,Montenegro,Piva,2028,641.28
+hpp_dev,Montenegro,Piva,2029,575.06
+hpp_dev,Montenegro,Piva,2030,614.97
+hpp_dev,Montenegro,Piva,2031,629.58
+hpp_dev,Montenegro,Piva,2032,594.53
+hpp_dev,Montenegro,Piva,2033,601.89
+hpp_dev,Montenegro,Piva,2034,588.75
+hpp_dev,Montenegro,Piva,2035,609.11
+hpp_dev,Montenegro,Piva,2036,611.75
+hpp_dev,Montenegro,Piva,2037,604.5
+hpp_dev,Montenegro,Piva,2038,603.19
+hpp_dev,Montenegro,Piva,2039,603.19
+hpp_dev,Montenegro,Piva,2040,603.19
+hpp_dev,Montenegro,Piva,2041,605.36
+hpp_dev,Montenegro,Piva,2042,605.36
+hpp_dev,Montenegro,Piva,2043,605.36
+hpp_dev,Montenegro,Piva,2044,605.36
+hpp_dev,Montenegro,Piva,2045,311.44
+hpp_dev,Republic of Serbia,BajinaBasta,2021,1645.14
+hpp_dev,Republic of Serbia,BajinaBasta,2022,1624.72
+hpp_dev,Republic of Serbia,BajinaBasta,2023,1624.72
+hpp_dev,Republic of Serbia,BajinaBasta,2024,1555.36
+hpp_dev,Republic of Serbia,BajinaBasta,2025,1757.75
+hpp_dev,Republic of Serbia,BajinaBasta,2026,1838.78
+hpp_dev,Republic of Serbia,BajinaBasta,2027,1749.06
+hpp_dev,Republic of Serbia,BajinaBasta,2028,1775.33
+hpp_dev,Republic of Serbia,BajinaBasta,2029,1746.92
+hpp_dev,Republic of Serbia,BajinaBasta,2030,1766.83
+hpp_dev,Republic of Serbia,BajinaBasta,2031,1770.17
+hpp_dev,Republic of Serbia,BajinaBasta,2032,1758.7
+hpp_dev,Republic of Serbia,BajinaBasta,2033,1762.17
+hpp_dev,Republic of Serbia,BajinaBasta,2034,1758.17
+hpp_dev,Republic of Serbia,BajinaBasta,2035,1764.5
+hpp_dev,Republic of Serbia,BajinaBasta,2036,1763.81
+hpp_dev,Republic of Serbia,BajinaBasta,2037,1762.17
+hpp_dev,Republic of Serbia,BajinaBasta,2038,1762.17
+hpp_dev,Republic of Serbia,BajinaBasta,2039,1762.17
+hpp_dev,Republic of Serbia,BajinaBasta,2040,1762.17
+hpp_dev,Republic of Serbia,BajinaBasta,2041,1763.03
+hpp_dev,Republic of Serbia,BajinaBasta,2042,1763.03
+hpp_dev,Republic of Serbia,BajinaBasta,2043,1763.03
+hpp_dev,Republic of Serbia,BajinaBasta,2044,1759.72
+hpp_dev,Republic of Serbia,BajinaBasta,2045,1548.14
+hpp_dev,Republic of Serbia,Bistrica,2021,514.86
+hpp_dev,Republic of Serbia,Bistrica,2022,422.33
+hpp_dev,Republic of Serbia,Bistrica,2023,422.33
+hpp_dev,Republic of Serbia,Bistrica,2024,422.33
+hpp_dev,Republic of Serbia,Bistrica,2025,422.33
+hpp_dev,Republic of Serbia,Bistrica,2026,422.33
+hpp_dev,Republic of Serbia,Bistrica,2027,454.42
+hpp_dev,Republic of Serbia,Bistrica,2028,422.33
+hpp_dev,Republic of Serbia,Bistrica,2029,390.28
+hpp_dev,Republic of Serbia,Bistrica,2030,422.33
+hpp_dev,Republic of Serbia,Bistrica,2031,422.33
+hpp_dev,Republic of Serbia,Bistrica,2032,422.33
+hpp_dev,Republic of Serbia,Bistrica,2033,422.33
+hpp_dev,Republic of Serbia,Bistrica,2034,422.33
+hpp_dev,Republic of Serbia,Bistrica,2035,422.33
+hpp_dev,Republic of Serbia,Bistrica,2036,422.33
+hpp_dev,Republic of Serbia,Bistrica,2037,422.33
+hpp_dev,Republic of Serbia,Bistrica,2038,422.33
+hpp_dev,Republic of Serbia,Bistrica,2039,422.33
+hpp_dev,Republic of Serbia,Bistrica,2040,422.33
+hpp_dev,Republic of Serbia,Bistrica,2041,422.33
+hpp_dev,Republic of Serbia,Bistrica,2042,422.33
+hpp_dev,Republic of Serbia,Bistrica,2043,422.33
+hpp_dev,Republic of Serbia,Bistrica,2044,404.69
+hpp_dev,Republic of Serbia,Bistrica,2045,165.56
+hpp_dev,Republic of Serbia,KokinBrod,2021,83.67
+hpp_dev,Republic of Serbia,KokinBrod,2022,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2023,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2024,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2025,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2026,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2027,73.47
+hpp_dev,Republic of Serbia,KokinBrod,2028,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2029,62.64
+hpp_dev,Republic of Serbia,KokinBrod,2030,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2031,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2032,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2033,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2034,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2035,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2036,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2037,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2038,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2039,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2040,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2041,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2042,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2043,68.06
+hpp_dev,Republic of Serbia,KokinBrod,2044,65.06
+hpp_dev,Republic of Serbia,KokinBrod,2045,25.28
+hpp_dev,Republic of Serbia,Potpec,2021,272.08
+hpp_dev,Republic of Serbia,Potpec,2022,272.08
+hpp_dev,Republic of Serbia,Potpec,2023,272.08
+hpp_dev,Republic of Serbia,Potpec,2024,272.08
+hpp_dev,Republic of Serbia,Potpec,2025,272.08
+hpp_dev,Republic of Serbia,Potpec,2026,272.08
+hpp_dev,Republic of Serbia,Potpec,2027,272.08
+hpp_dev,Republic of Serbia,Potpec,2028,272.08
+hpp_dev,Republic of Serbia,Potpec,2029,272.08
+hpp_dev,Republic of Serbia,Potpec,2030,272.08
+hpp_dev,Republic of Serbia,Potpec,2031,272.08
+hpp_dev,Republic of Serbia,Potpec,2032,272.08
+hpp_dev,Republic of Serbia,Potpec,2033,272.08
+hpp_dev,Republic of Serbia,Potpec,2034,272.08
+hpp_dev,Republic of Serbia,Potpec,2035,272.08
+hpp_dev,Republic of Serbia,Potpec,2036,272.08
+hpp_dev,Republic of Serbia,Potpec,2037,272.08
+hpp_dev,Republic of Serbia,Potpec,2038,272.08
+hpp_dev,Republic of Serbia,Potpec,2039,272.08
+hpp_dev,Republic of Serbia,Potpec,2040,272.08
+hpp_dev,Republic of Serbia,Potpec,2041,272.08
+hpp_dev,Republic of Serbia,Potpec,2042,272.08
+hpp_dev,Republic of Serbia,Potpec,2043,272.08
+hpp_dev,Republic of Serbia,Potpec,2044,272.08
+hpp_dev,Republic of Serbia,Potpec,2045,270.36
+hpp_dev,Republic of Serbia,Uvac,2021,86.56
+hpp_dev,Republic of Serbia,Uvac,2022,86.56
+hpp_dev,Republic of Serbia,Uvac,2023,86.56
+hpp_dev,Republic of Serbia,Uvac,2024,86.56
+hpp_dev,Republic of Serbia,Uvac,2025,86.56
+hpp_dev,Republic of Serbia,Uvac,2026,86.56
+hpp_dev,Republic of Serbia,Uvac,2027,86.56
+hpp_dev,Republic of Serbia,Uvac,2028,86.56
+hpp_dev,Republic of Serbia,Uvac,2029,86.56
+hpp_dev,Republic of Serbia,Uvac,2030,86.56
+hpp_dev,Republic of Serbia,Uvac,2031,86.56
+hpp_dev,Republic of Serbia,Uvac,2032,86.56
+hpp_dev,Republic of Serbia,Uvac,2033,86.56
+hpp_dev,Republic of Serbia,Uvac,2034,86.56
+hpp_dev,Republic of Serbia,Uvac,2035,86.56
+hpp_dev,Republic of Serbia,Uvac,2036,86.56
+hpp_dev,Republic of Serbia,Uvac,2037,86.56
+hpp_dev,Republic of Serbia,Uvac,2038,86.56
+hpp_dev,Republic of Serbia,Uvac,2039,86.56
+hpp_dev,Republic of Serbia,Uvac,2040,86.56
+hpp_dev,Republic of Serbia,Uvac,2041,86.56
+hpp_dev,Republic of Serbia,Uvac,2042,86.56
+hpp_dev,Republic of Serbia,Uvac,2043,86.56
+hpp_dev,Republic of Serbia,Uvac,2044,86.56
+hpp_dev,Republic of Serbia,Uvac,2045,49.17
+hpp_dev,Republic of Serbia,Zvornik,2021,498.03
+hpp_dev,Republic of Serbia,Zvornik,2022,492.36
+hpp_dev,Republic of Serbia,Zvornik,2023,492.36
+hpp_dev,Republic of Serbia,Zvornik,2024,473.19
+hpp_dev,Republic of Serbia,Zvornik,2025,529.19
+hpp_dev,Republic of Serbia,Zvornik,2026,551.61
+hpp_dev,Republic of Serbia,Zvornik,2027,526.78
+hpp_dev,Republic of Serbia,Zvornik,2028,534.06
+hpp_dev,Republic of Serbia,Zvornik,2029,526.19
+hpp_dev,Republic of Serbia,Zvornik,2030,531.69
+hpp_dev,Republic of Serbia,Zvornik,2031,532.64
+hpp_dev,Republic of Serbia,Zvornik,2032,529.44
+hpp_dev,Republic of Serbia,Zvornik,2033,530.42
+hpp_dev,Republic of Serbia,Zvornik,2034,529.31
+hpp_dev,Republic of Serbia,Zvornik,2035,531.06
+hpp_dev,Republic of Serbia,Zvornik,2036,530.86
+hpp_dev,Republic of Serbia,Zvornik,2037,530.42
+hpp_dev,Republic of Serbia,Zvornik,2038,530.42
+hpp_dev,Republic of Serbia,Zvornik,2039,530.42
+hpp_dev,Republic of Serbia,Zvornik,2040,530.42
+hpp_dev,Republic of Serbia,Zvornik,2041,530.64
+hpp_dev,Republic of Serbia,Zvornik,2042,530.64
+hpp_dev,Republic of Serbia,Zvornik,2043,530.64
+hpp_dev,Republic of Serbia,Zvornik,2044,529.75
+hpp_dev,Republic of Serbia,Zvornik,2045,470.25

@@ -1,0 +1,17 @@
+name: drina_env
+channels:
+  - conda-forge
+  - conda
+dependencies:
+  - python
+  - numpy
+  - pip
+  - plotly
+  - pandas
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - glpk
+  - matplotlib
+  - ipython
+  - nbconvert
+ 

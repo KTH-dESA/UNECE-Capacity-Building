@@ -1,0 +1,201 @@
+scenario,country,tech,year,value
+ets,Bosnia and Herzegovina,Visegrad,2021,1222.14
+ets,Bosnia and Herzegovina,Visegrad,2022,1273.67
+ets,Bosnia and Herzegovina,Visegrad,2023,1260.75
+ets,Bosnia and Herzegovina,Visegrad,2024,1248.17
+ets,Bosnia and Herzegovina,Visegrad,2025,1189.64
+ets,Bosnia and Herzegovina,Visegrad,2026,1214.81
+ets,Bosnia and Herzegovina,Visegrad,2027,1283.58
+ets,Bosnia and Herzegovina,Visegrad,2028,1234.06
+ets,Bosnia and Herzegovina,Visegrad,2029,1282.28
+ets,Bosnia and Herzegovina,Visegrad,2030,1229.47
+ets,Bosnia and Herzegovina,Visegrad,2031,1240.64
+ets,Bosnia and Herzegovina,Visegrad,2032,1241.36
+ets,Bosnia and Herzegovina,Visegrad,2033,1242.5
+ets,Bosnia and Herzegovina,Visegrad,2034,1243.11
+ets,Bosnia and Herzegovina,Visegrad,2035,1210.61
+ets,Bosnia and Herzegovina,Visegrad,2036,1239.86
+ets,Bosnia and Herzegovina,Visegrad,2037,1240.53
+ets,Bosnia and Herzegovina,Visegrad,2038,1238.64
+ets,Bosnia and Herzegovina,Visegrad,2039,1246.2
+ets,Bosnia and Herzegovina,Visegrad,2040,1266.28
+ets,Bosnia and Herzegovina,Visegrad,2041,1244.53
+ets,Bosnia and Herzegovina,Visegrad,2042,1243.89
+ets,Bosnia and Herzegovina,Visegrad,2043,1241.92
+ets,Bosnia and Herzegovina,Visegrad,2044,1236.81
+ets,Bosnia and Herzegovina,Visegrad,2045,1173.83
+ets,Montenegro,Piva,2021,641.28
+ets,Montenegro,Piva,2022,578.56
+ets,Montenegro,Piva,2023,634.14
+ets,Montenegro,Piva,2024,603.19
+ets,Montenegro,Piva,2025,422.44
+ets,Montenegro,Piva,2026,681.92
+ets,Montenegro,Piva,2027,613.61
+ets,Montenegro,Piva,2028,550.0
+ets,Montenegro,Piva,2029,698.67
+ets,Montenegro,Piva,2030,552.28
+ets,Montenegro,Piva,2031,591.72
+ets,Montenegro,Piva,2032,594.25
+ets,Montenegro,Piva,2033,598.33
+ets,Montenegro,Piva,2034,600.53
+ets,Montenegro,Piva,2035,601.56
+ets,Montenegro,Piva,2036,583.81
+ets,Montenegro,Piva,2037,588.28
+ets,Montenegro,Piva,2038,556.53
+ets,Montenegro,Piva,2039,552.42
+ets,Montenegro,Piva,2040,552.42
+ets,Montenegro,Piva,2041,561.06
+ets,Montenegro,Piva,2042,561.06
+ets,Montenegro,Piva,2043,561.06
+ets,Montenegro,Piva,2044,561.06
+ets,Montenegro,Piva,2045,374.92
+ets,Republic of Serbia,BajinaBasta,2021,1680.5
+ets,Republic of Serbia,BajinaBasta,2022,1822.7
+ets,Republic of Serbia,BajinaBasta,2023,1769.64
+ets,Republic of Serbia,BajinaBasta,2024,1751.97
+ets,Republic of Serbia,BajinaBasta,2025,1669.83
+ets,Republic of Serbia,BajinaBasta,2026,1670.22
+ets,Republic of Serbia,BajinaBasta,2027,1836.64
+ets,Republic of Serbia,BajinaBasta,2028,1732.17
+ets,Republic of Serbia,BajinaBasta,2029,1799.83
+ets,Republic of Serbia,BajinaBasta,2030,1725.72
+ets,Republic of Serbia,BajinaBasta,2031,1741.39
+ets,Republic of Serbia,BajinaBasta,2032,1742.42
+ets,Republic of Serbia,BajinaBasta,2033,1744.03
+ets,Republic of Serbia,BajinaBasta,2034,1744.89
+ets,Republic of Serbia,BajinaBasta,2035,1692.89
+ets,Republic of Serbia,BajinaBasta,2036,1711.72
+ets,Republic of Serbia,BajinaBasta,2037,1741.25
+ets,Republic of Serbia,BajinaBasta,2038,1738.61
+ets,Republic of Serbia,BajinaBasta,2039,1784.14
+ets,Republic of Serbia,BajinaBasta,2040,1777.39
+ets,Republic of Serbia,BajinaBasta,2041,1746.89
+ets,Republic of Serbia,BajinaBasta,2042,1745.97
+ets,Republic of Serbia,BajinaBasta,2043,1743.2
+ets,Republic of Serbia,BajinaBasta,2044,1736.03
+ets,Republic of Serbia,BajinaBasta,2045,1612.7
+ets,Republic of Serbia,Bistrica,2021,280.11
+ets,Republic of Serbia,Bistrica,2022,596.31
+ets,Republic of Serbia,Bistrica,2023,483.14
+ets,Republic of Serbia,Bistrica,2024,454.42
+ets,Republic of Serbia,Bistrica,2025,399.31
+ets,Republic of Serbia,Bistrica,2026,138.86
+ets,Republic of Serbia,Bistrica,2027,604.25
+ets,Republic of Serbia,Bistrica,2028,546.94
+ets,Republic of Serbia,Bistrica,2029,422.33
+ets,Republic of Serbia,Bistrica,2030,422.33
+ets,Republic of Serbia,Bistrica,2031,422.33
+ets,Republic of Serbia,Bistrica,2032,422.33
+ets,Republic of Serbia,Bistrica,2033,422.33
+ets,Republic of Serbia,Bistrica,2034,422.33
+ets,Republic of Serbia,Bistrica,2035,278.0
+ets,Republic of Serbia,Bistrica,2036,394.78
+ets,Republic of Serbia,Bistrica,2037,394.78
+ets,Republic of Serbia,Bistrica,2038,394.78
+ets,Republic of Serbia,Bistrica,2039,443.44
+ets,Republic of Serbia,Bistrica,2040,592.83
+ets,Republic of Serbia,Bistrica,2041,422.33
+ets,Republic of Serbia,Bistrica,2042,422.33
+ets,Republic of Serbia,Bistrica,2043,407.58
+ets,Republic of Serbia,Bistrica,2044,369.25
+ets,Republic of Serbia,Bistrica,2045,227.08
+ets,Republic of Serbia,KokinBrod,2021,44.61
+ets,Republic of Serbia,KokinBrod,2022,96.83
+ets,Republic of Serbia,KokinBrod,2023,78.31
+ets,Republic of Serbia,KokinBrod,2024,73.47
+ets,Republic of Serbia,KokinBrod,2025,64.17
+ets,Republic of Serbia,KokinBrod,2026,20.75
+ets,Republic of Serbia,KokinBrod,2027,98.19
+ets,Republic of Serbia,KokinBrod,2028,89.08
+ets,Republic of Serbia,KokinBrod,2029,68.06
+ets,Republic of Serbia,KokinBrod,2030,68.06
+ets,Republic of Serbia,KokinBrod,2031,68.06
+ets,Republic of Serbia,KokinBrod,2032,68.06
+ets,Republic of Serbia,KokinBrod,2033,68.06
+ets,Republic of Serbia,KokinBrod,2034,68.06
+ets,Republic of Serbia,KokinBrod,2035,44.25
+ets,Republic of Serbia,KokinBrod,2036,63.39
+ets,Republic of Serbia,KokinBrod,2037,63.39
+ets,Republic of Serbia,KokinBrod,2038,63.39
+ets,Republic of Serbia,KokinBrod,2039,71.61
+ets,Republic of Serbia,KokinBrod,2040,96.83
+ets,Republic of Serbia,KokinBrod,2041,68.06
+ets,Republic of Serbia,KokinBrod,2042,68.06
+ets,Republic of Serbia,KokinBrod,2043,65.56
+ets,Republic of Serbia,KokinBrod,2044,59.08
+ets,Republic of Serbia,KokinBrod,2045,35.08
+ets,Republic of Serbia,Potpec,2021,270.36
+ets,Republic of Serbia,Potpec,2022,273.78
+ets,Republic of Serbia,Potpec,2023,272.08
+ets,Republic of Serbia,Potpec,2024,272.08
+ets,Republic of Serbia,Potpec,2025,272.08
+ets,Republic of Serbia,Potpec,2026,270.36
+ets,Republic of Serbia,Potpec,2027,273.78
+ets,Republic of Serbia,Potpec,2028,272.08
+ets,Republic of Serbia,Potpec,2029,272.08
+ets,Republic of Serbia,Potpec,2030,272.08
+ets,Republic of Serbia,Potpec,2031,272.08
+ets,Republic of Serbia,Potpec,2032,272.08
+ets,Republic of Serbia,Potpec,2033,272.08
+ets,Republic of Serbia,Potpec,2034,272.08
+ets,Republic of Serbia,Potpec,2035,270.36
+ets,Republic of Serbia,Potpec,2036,272.08
+ets,Republic of Serbia,Potpec,2037,272.08
+ets,Republic of Serbia,Potpec,2038,272.08
+ets,Republic of Serbia,Potpec,2039,272.08
+ets,Republic of Serbia,Potpec,2040,272.08
+ets,Republic of Serbia,Potpec,2041,272.08
+ets,Republic of Serbia,Potpec,2042,272.08
+ets,Republic of Serbia,Potpec,2043,272.08
+ets,Republic of Serbia,Potpec,2044,272.08
+ets,Republic of Serbia,Potpec,2045,272.08
+ets,Republic of Serbia,Uvac,2021,61.56
+ets,Republic of Serbia,Uvac,2022,86.56
+ets,Republic of Serbia,Uvac,2023,111.58
+ets,Republic of Serbia,Uvac,2024,86.56
+ets,Republic of Serbia,Uvac,2025,86.56
+ets,Republic of Serbia,Uvac,2026,49.17
+ets,Republic of Serbia,Uvac,2027,123.97
+ets,Republic of Serbia,Uvac,2028,86.56
+ets,Republic of Serbia,Uvac,2029,86.56
+ets,Republic of Serbia,Uvac,2030,86.56
+ets,Republic of Serbia,Uvac,2031,86.56
+ets,Republic of Serbia,Uvac,2032,86.56
+ets,Republic of Serbia,Uvac,2033,86.56
+ets,Republic of Serbia,Uvac,2034,85.61
+ets,Republic of Serbia,Uvac,2035,67.11
+ets,Republic of Serbia,Uvac,2036,86.56
+ets,Republic of Serbia,Uvac,2037,86.56
+ets,Republic of Serbia,Uvac,2038,86.56
+ets,Republic of Serbia,Uvac,2039,86.56
+ets,Republic of Serbia,Uvac,2040,106.94
+ets,Republic of Serbia,Uvac,2041,86.56
+ets,Republic of Serbia,Uvac,2042,86.56
+ets,Republic of Serbia,Uvac,2043,86.56
+ets,Republic of Serbia,Uvac,2044,86.56
+ets,Republic of Serbia,Uvac,2045,52.78
+ets,Republic of Serbia,Zvornik,2021,507.81
+ets,Republic of Serbia,Zvornik,2022,547.17
+ets,Republic of Serbia,Zvornik,2023,532.47
+ets,Republic of Serbia,Zvornik,2024,527.58
+ets,Republic of Serbia,Zvornik,2025,504.86
+ets,Republic of Serbia,Zvornik,2026,504.03
+ets,Republic of Serbia,Zvornik,2027,551.94
+ets,Republic of Serbia,Zvornik,2028,522.11
+ets,Republic of Serbia,Zvornik,2029,540.83
+ets,Republic of Serbia,Zvornik,2030,520.33
+ets,Republic of Serbia,Zvornik,2031,524.67
+ets,Republic of Serbia,Zvornik,2032,524.94
+ets,Republic of Serbia,Zvornik,2033,525.39
+ets,Republic of Serbia,Zvornik,2034,525.64
+ets,Republic of Serbia,Zvornik,2035,511.25
+ets,Republic of Serbia,Zvornik,2036,516.44
+ets,Republic of Serbia,Zvornik,2037,524.64
+ets,Republic of Serbia,Zvornik,2038,523.89
+ets,Republic of Serbia,Zvornik,2039,536.5
+ets,Republic of Serbia,Zvornik,2040,534.64
+ets,Republic of Serbia,Zvornik,2041,526.19
+ets,Republic of Serbia,Zvornik,2042,525.92
+ets,Republic of Serbia,Zvornik,2043,525.17
+ets,Republic of Serbia,Zvornik,2044,523.19
+ets,Republic of Serbia,Zvornik,2045,488.11

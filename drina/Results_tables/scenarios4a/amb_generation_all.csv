@@ -1,0 +1,657 @@
+scenario,country,tech,type,year,value
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2021,10483.54
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2022,10409.12
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2023,10355.31
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2024,7547.67
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2025,7553.59
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2026,4649.61
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2027,3151.09
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2028,1874.45
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2029,993.5
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2030,621.08
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2031,592.56
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2032,543.78
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2033,470.92
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2034,368.28
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2035,278.86
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2036,198.94
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2037,126.81
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2038,103.86
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2039,88.92
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2040,91.08
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2041,102.94
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2042,112.42
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2043,123.33
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2044,134.78
+amb,Bosnia and Herzegovina,BAPCOSCHO0,thermal,2045,158.42
+amb,Bosnia and Herzegovina,BAPCOSCHO0DRB,thermal,2021,524.33
+amb,Bosnia and Herzegovina,BAPCOSCHO0DRB,thermal,2022,242.83
+amb,Bosnia and Herzegovina,BAPCOSCHO0DRB,thermal,2023,235.92
+amb,Bosnia and Herzegovina,BAPCOSCHO0DRB,thermal,2024,40.64
+amb,Bosnia and Herzegovina,BAPCOSCHO0DRB,thermal,2025,26.56
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2024,2944.61
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2025,2944.61
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2026,4907.7
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2027,4907.7
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2028,4605.0
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2029,3215.5
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2030,2958.89
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2031,2903.06
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2032,2894.81
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2033,2854.45
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2034,2803.86
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2035,2740.09
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2036,2649.89
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2037,2331.17
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2038,2248.0
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2039,2188.92
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2040,2130.17
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2041,2150.56
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2042,2161.47
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2043,2176.7
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2044,2193.14
+amb,Bosnia and Herzegovina,BAPCOSCHO0P,thermal,2045,2249.06
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2021,1211.33
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2022,1280.64
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2023,1249.61
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2024,1239.47
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2025,1234.67
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2026,1180.53
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2027,1305.5
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2028,1183.39
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2029,1325.33
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2030,1199.45
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2031,1225.97
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2032,1236.17
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2033,1243.89
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2034,1243.89
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2035,1243.89
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2036,1242.89
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2037,1240.22
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2038,1240.22
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2039,1240.22
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2040,1236.81
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2041,1235.92
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2042,1230.95
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2043,1230.06
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2044,1230.06
+amb,Bosnia and Herzegovina,BAPHYDMHI1,hydro,2045,1182.64
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2021,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2022,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2023,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2024,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2025,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2026,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2027,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2028,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2029,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2030,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2031,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2032,4659.31
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2033,4627.84
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2034,4572.95
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2035,4518.09
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2036,4481.11
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2037,4227.42
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2038,4183.03
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2039,4168.67
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2040,4156.59
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2041,4152.03
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2042,4127.64
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2043,4114.06
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2044,4102.59
+amb,Bosnia and Herzegovina,BAPHYRRHO0,hydro,2045,4089.34
+amb,Bosnia and Herzegovina,BAPSOU1HO0DRBP,solar,2037,227.53
+amb,Bosnia and Herzegovina,BAPSOU1HO0DRBP,solar,2038,240.89
+amb,Bosnia and Herzegovina,BAPSOU1HO0DRBP,solar,2039,254.28
+amb,Bosnia and Herzegovina,BAPSOU1HO0DRBP,solar,2040,267.67
+amb,Bosnia and Herzegovina,BAPSOU1HO0DRBP,solar,2041,267.67
+amb,Bosnia and Herzegovina,BAPSOU1HO0DRBP,solar,2042,267.67
+amb,Bosnia and Herzegovina,BAPSOU1HO0DRBP,solar,2043,267.67
+amb,Bosnia and Herzegovina,BAPSOU1HO0DRBP,solar,2044,267.67
+amb,Bosnia and Herzegovina,BAPSOU1HO0DRBP,solar,2045,267.67
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2022,110.11
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2023,110.11
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2024,110.11
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2025,208.25
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2026,208.25
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2027,208.25
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2028,536.11
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2029,1291.06
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2030,2046.0
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2031,2103.84
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2032,2496.95
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2033,2705.03
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2034,2913.09
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2035,3121.17
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2036,3329.25
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2037,3537.34
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2038,3745.42
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2039,3953.48
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2040,4161.56
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2041,4161.56
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2042,4161.56
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2043,4161.56
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2044,4161.56
+amb,Bosnia and Herzegovina,BAPSOU1HO0P,solar,2045,4161.56
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2021,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2022,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2023,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2024,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2025,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2026,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2027,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2028,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2029,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2030,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2031,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2032,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2033,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2034,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2035,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2036,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2037,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2038,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2039,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2040,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2041,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2042,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2043,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2044,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0,wind,2045,271.83
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2021,472.22
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2022,735.95
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2023,920.56
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2024,1082.08
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2025,1082.08
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2026,2193.2
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2027,3566.75
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2028,4940.31
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2029,6313.87
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2030,6313.87
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2031,6313.87
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2032,6313.87
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2033,6313.87
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2034,6313.87
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2035,6313.87
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2036,6313.87
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2037,6801.53
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2038,6862.59
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2039,6862.59
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2040,6864.64
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2041,6967.17
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2042,7103.51
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2043,7214.34
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2044,7321.64
+amb,Bosnia and Herzegovina,BAPWI30HO0P,wind,2045,7445.39
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2021,765.78
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2022,569.53
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2023,392.56
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2024,269.19
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2025,254.44
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2026,429.11
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2027,369.56
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2028,340.39
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2029,340.39
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2030,277.67
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2031,421.0
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2032,443.97
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2033,444.0
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2034,448.64
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2035,454.08
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2036,454.08
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2037,443.44
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2038,415.81
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2039,405.64
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2040,216.56
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2041,229.86
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2042,229.86
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2043,229.86
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2044,229.86
+amb,Montenegro,MEPCOSCHO0DRB,thermal,2045,363.75
+amb,Montenegro,MEPHYDMHI1,hydro,2021,603.19
+amb,Montenegro,MEPHYDMHI1,hydro,2022,603.19
+amb,Montenegro,MEPHYDMHI1,hydro,2023,579.67
+amb,Montenegro,MEPHYDMHI1,hydro,2024,501.64
+amb,Montenegro,MEPHYDMHI1,hydro,2025,503.42
+amb,Montenegro,MEPHYDMHI1,hydro,2026,571.69
+amb,Montenegro,MEPHYDMHI1,hydro,2027,485.56
+amb,Montenegro,MEPHYDMHI1,hydro,2028,460.75
+amb,Montenegro,MEPHYDMHI1,hydro,2029,460.75
+amb,Montenegro,MEPHYDMHI1,hydro,2030,438.33
+amb,Montenegro,MEPHYDMHI1,hydro,2031,444.64
+amb,Montenegro,MEPHYDMHI1,hydro,2032,440.06
+amb,Montenegro,MEPHYDMHI1,hydro,2033,438.22
+amb,Montenegro,MEPHYDMHI1,hydro,2034,438.22
+amb,Montenegro,MEPHYDMHI1,hydro,2035,438.22
+amb,Montenegro,MEPHYDMHI1,hydro,2036,438.22
+amb,Montenegro,MEPHYDMHI1,hydro,2037,417.94
+amb,Montenegro,MEPHYDMHI1,hydro,2038,399.44
+amb,Montenegro,MEPHYDMHI1,hydro,2039,399.44
+amb,Montenegro,MEPHYDMHI1,hydro,2040,399.44
+amb,Montenegro,MEPHYDMHI1,hydro,2041,399.44
+amb,Montenegro,MEPHYDMHI1,hydro,2042,399.44
+amb,Montenegro,MEPHYDMHI1,hydro,2043,399.44
+amb,Montenegro,MEPHYDMHI1,hydro,2044,399.44
+amb,Montenegro,MEPHYDMHI1,hydro,2045,265.53
+amb,Montenegro,MEPHYRRHO0,hydro,2021,845.08
+amb,Montenegro,MEPHYRRHO0,hydro,2022,845.08
+amb,Montenegro,MEPHYRRHO0,hydro,2023,845.08
+amb,Montenegro,MEPHYRRHO0,hydro,2024,845.08
+amb,Montenegro,MEPHYRRHO0,hydro,2025,845.08
+amb,Montenegro,MEPHYRRHO0,hydro,2026,845.08
+amb,Montenegro,MEPHYRRHO0,hydro,2027,750.81
+amb,Montenegro,MEPHYRRHO0,hydro,2028,687.31
+amb,Montenegro,MEPHYRRHO0,hydro,2029,845.08
+amb,Montenegro,MEPHYRRHO0,hydro,2030,739.53
+amb,Montenegro,MEPHYRRHO0,hydro,2031,845.08
+amb,Montenegro,MEPHYRRHO0,hydro,2032,686.58
+amb,Montenegro,MEPHYRRHO0,hydro,2033,666.81
+amb,Montenegro,MEPHYRRHO0,hydro,2034,845.08
+amb,Montenegro,MEPHYRRHO0,hydro,2035,780.67
+amb,Montenegro,MEPHYRRHO0,hydro,2036,758.11
+amb,Montenegro,MEPHYRRHO0,hydro,2037,833.5
+amb,Montenegro,MEPHYRRHO0,hydro,2038,711.61
+amb,Montenegro,MEPHYRRHO0,hydro,2039,637.72
+amb,Montenegro,MEPHYRRHO0,hydro,2040,843.64
+amb,Montenegro,MEPHYRRHO0,hydro,2041,761.28
+amb,Montenegro,MEPHYRRHO0,hydro,2042,841.33
+amb,Montenegro,MEPHYRRHO0,hydro,2043,841.33
+amb,Montenegro,MEPHYRRHO0,hydro,2044,683.75
+amb,Montenegro,MEPHYRRHO0,hydro,2045,655.64
+amb,Montenegro,MEPHYRRHO0P,hydro,2021,240.0
+amb,Montenegro,MEPHYRRHO0P,hydro,2022,479.97
+amb,Montenegro,MEPHYRRHO0P,hydro,2023,719.97
+amb,Montenegro,MEPHYRRHO0P,hydro,2024,959.97
+amb,Montenegro,MEPHYRRHO0P,hydro,2025,1013.83
+amb,Montenegro,MEPHYRRHO0P,hydro,2026,1439.95
+amb,Montenegro,MEPHYRRHO0P,hydro,2027,1679.92
+amb,Montenegro,MEPHYRRHO0P,hydro,2028,1797.36
+amb,Montenegro,MEPHYRRHO0P,hydro,2029,1639.58
+amb,Montenegro,MEPHYRRHO0P,hydro,2030,1830.31
+amb,Montenegro,MEPHYRRHO0P,hydro,2031,2266.34
+amb,Montenegro,MEPHYRRHO0P,hydro,2032,2603.36
+amb,Montenegro,MEPHYRRHO0P,hydro,2033,2652.97
+amb,Montenegro,MEPHYRRHO0P,hydro,2034,2495.64
+amb,Montenegro,MEPHYRRHO0P,hydro,2035,2584.64
+amb,Montenegro,MEPHYRRHO0P,hydro,2036,2607.2
+amb,Montenegro,MEPHYRRHO0P,hydro,2037,2608.0
+amb,Montenegro,MEPHYRRHO0P,hydro,2038,2816.56
+amb,Montenegro,MEPHYRRHO0P,hydro,2039,2943.81
+amb,Montenegro,MEPHYRRHO0P,hydro,2040,2969.81
+amb,Montenegro,MEPHYRRHO0P,hydro,2041,3078.36
+amb,Montenegro,MEPHYRRHO0P,hydro,2042,2998.31
+amb,Montenegro,MEPHYRRHO0P,hydro,2043,2998.31
+amb,Montenegro,MEPHYRRHO0P,hydro,2044,3155.89
+amb,Montenegro,MEPHYRRHO0P,hydro,2045,3184.0
+amb,Montenegro,MEPWI25HO0,wind,2021,106.86
+amb,Montenegro,MEPWI25HO0,wind,2022,106.86
+amb,Montenegro,MEPWI25HO0,wind,2023,106.86
+amb,Montenegro,MEPWI25HO0,wind,2024,106.86
+amb,Montenegro,MEPWI25HO0,wind,2025,106.86
+amb,Montenegro,MEPWI25HO0,wind,2026,106.86
+amb,Montenegro,MEPWI25HO0,wind,2027,106.86
+amb,Montenegro,MEPWI25HO0,wind,2028,106.86
+amb,Montenegro,MEPWI25HO0,wind,2029,106.86
+amb,Montenegro,MEPWI25HO0,wind,2030,106.86
+amb,Montenegro,MEPWI25HO0,wind,2031,106.86
+amb,Montenegro,MEPWI25HO0,wind,2032,106.86
+amb,Montenegro,MEPWI25HO0,wind,2033,106.86
+amb,Montenegro,MEPWI25HO0,wind,2034,106.86
+amb,Montenegro,MEPWI25HO0,wind,2035,106.86
+amb,Montenegro,MEPWI25HO0,wind,2036,106.86
+amb,Montenegro,MEPWI25HO0,wind,2037,106.86
+amb,Montenegro,MEPWI25HO0,wind,2038,106.86
+amb,Montenegro,MEPWI25HO0,wind,2039,106.86
+amb,Montenegro,MEPWI25HO0,wind,2040,106.86
+amb,Montenegro,MEPWI25HO0,wind,2041,106.86
+amb,Montenegro,MEPWI25HO0,wind,2042,106.86
+amb,Montenegro,MEPWI25HO0,wind,2043,106.86
+amb,Montenegro,MEPWI25HO0,wind,2044,106.86
+amb,Montenegro,MEPWI25HO0,wind,2045,106.86
+amb,Montenegro,MEPWI25HO0DRB,wind,2021,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2022,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2023,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2024,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2025,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2026,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2027,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2028,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2029,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2030,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2031,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2032,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2033,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2034,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2035,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2036,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2037,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2038,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2039,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2040,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2041,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2042,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2043,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2044,192.75
+amb,Montenegro,MEPWI25HO0DRB,wind,2045,192.75
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2021,24916.3
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2022,22550.16
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2023,21042.88
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2024,19562.54
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2025,17196.85
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2026,14973.21
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2027,9365.34
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2028,8173.9
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2029,6632.73
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2030,7022.39
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2031,6513.45
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2032,6031.2
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2033,5921.0
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2034,5614.67
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2035,5877.23
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2036,5600.64
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2037,5062.89
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2038,4559.23
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2039,4141.59
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2040,3849.14
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2041,3875.7
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2042,3882.17
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2043,3895.98
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2044,3914.17
+amb,Republic of Serbia,RSPCOSCHO0,thermal,2045,3915.31
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2021,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2022,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2023,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2024,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2025,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2026,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2027,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2028,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2029,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2030,2050.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2031,1709.92
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2032,1291.42
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2033,1238.81
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2034,1157.53
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2035,1162.83
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2036,1087.92
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2037,982.86
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2038,955.06
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2039,885.86
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2040,767.78
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2041,767.78
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2042,767.78
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2043,767.78
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2044,767.78
+amb,Republic of Serbia,RSPCOSCHO0P,thermal,2045,767.78
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2021,1665.36
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2022,1832.5
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2023,1753.97
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2024,1739.78
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2025,1733.0
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2026,1622.11
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2027,1867.36
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2028,1661.06
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2029,1860.31
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2030,1683.58
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2031,1685.92
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2032,1735.11
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2033,1745.97
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2034,1745.97
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2035,1745.97
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2036,1744.56
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2037,1761.7
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2038,1754.83
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2039,1740.81
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2040,1736.03
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2041,1734.78
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2042,1727.78
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2043,1726.56
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2044,1726.56
+amb,Republic of Serbia,RSPHYDMHI1,hydro,2045,1625.06
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2021,503.64
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2022,549.89
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2023,528.14
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2024,524.22
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2025,522.33
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2026,490.72
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2027,560.47
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2028,502.44
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2029,557.58
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2030,508.67
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2031,508.39
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2032,522.92
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2033,525.92
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2034,525.92
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2035,525.92
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2036,525.56
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2037,531.22
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2038,528.39
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2039,524.5
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2040,523.19
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2041,522.83
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2042,520.89
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2043,520.56
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2044,520.56
+amb,Republic of Serbia,RSPHYDMHI2,hydro,2045,491.53
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2021,61.56
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2022,84.92
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2023,113.22
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2024,86.56
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2025,86.56
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2026,49.17
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2027,123.97
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2028,86.56
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2029,86.56
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2030,86.56
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2031,78.11
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2032,74.64
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2033,86.56
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2034,86.56
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2035,86.56
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2036,81.58
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2037,81.58
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2038,54.81
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2039,54.81
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2040,54.81
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2041,54.81
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2042,54.81
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2043,54.81
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2044,54.81
+amb,Republic of Serbia,RSPHYDMHI3,hydro,2045,41.39
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2021,44.61
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2022,96.83
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2023,83.72
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2024,68.06
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2025,68.06
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2026,16.86
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2027,98.19
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2028,60.31
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2029,96.83
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2030,68.06
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2031,63.47
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2032,58.25
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2033,68.06
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2034,68.06
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2035,68.06
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2036,66.78
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2037,63.39
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2038,63.39
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2039,64.19
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2040,82.44
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2041,68.06
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2042,68.06
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2043,68.06
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2044,62.17
+amb,Republic of Serbia,RSPHYDMHI4,hydro,2045,38.5
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2021,280.11
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2022,596.31
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2023,515.22
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2024,422.33
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2025,422.33
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2026,115.83
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2027,604.25
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2028,372.97
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2029,596.31
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2030,418.86
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2031,395.22
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2032,364.39
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2033,422.33
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2034,422.33
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2035,422.33
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2036,414.89
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2037,394.78
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2038,394.78
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2039,394.78
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2040,369.25
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2041,362.53
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2042,325.14
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2043,318.64
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2044,318.64
+amb,Republic of Serbia,RSPHYDMHI5,hydro,2045,247.11
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2021,270.36
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2022,273.78
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2023,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2024,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2025,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2026,270.36
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2027,273.78
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2028,270.36
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2029,273.78
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2030,270.36
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2031,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2032,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2033,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2034,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2035,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2036,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2037,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2038,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2039,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2040,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2041,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2042,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2043,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2044,272.08
+amb,Republic of Serbia,RSPHYDMHI6,hydro,2045,272.08
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2021,7306.98
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2022,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2023,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2024,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2025,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2026,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2027,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2028,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2029,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2030,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2031,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2032,7438.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2033,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2034,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2035,6561.09
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2036,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2037,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2038,4881.53
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2039,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2040,7343.34
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2041,5848.84
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2042,4381.61
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2043,6732.53
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2044,7444.01
+amb,Republic of Serbia,RSPHYRRHO0,hydro,2045,7444.01
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2021,882.5
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2022,1765.0
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2023,2647.53
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2024,3530.03
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2025,4412.53
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2026,5295.03
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2027,6177.56
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2028,7060.06
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2029,7942.56
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2030,8825.06
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2031,9707.59
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2032,10590.09
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2033,11076.12
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2034,11478.9
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2035,13237.62
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2036,12698.43
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2037,12737.23
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2038,15376.43
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2039,12868.76
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2040,13124.84
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2041,14684.26
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2042,16257.71
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2043,13978.37
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2044,13318.54
+amb,Republic of Serbia,RSPHYRRHO0P,hydro,2045,13299.12
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2025,685.61
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2026,1371.22
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2027,2056.81
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2028,2742.42
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2029,3428.03
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2030,3428.03
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2031,3428.03
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2032,3428.03
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2033,3428.03
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2034,3428.03
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2035,3428.03
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2036,3428.03
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2037,4113.64
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2038,4799.23
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2039,5484.84
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2040,5939.95
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2041,6100.31
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2042,6255.37
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2043,6435.78
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2044,6584.98
+amb,Republic of Serbia,RSPSOU1HO0P,solar,2045,7095.06
+amb,Republic of Serbia,RSPWI30HO0,wind,2021,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2022,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2023,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2024,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2025,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2026,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2027,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2028,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2029,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2030,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2031,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2032,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2033,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2034,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2035,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2036,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2037,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2038,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2039,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2040,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2041,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2042,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2043,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2044,542.47
+amb,Republic of Serbia,RSPWI30HO0,wind,2045,542.47
+amb,Republic of Serbia,RSPWI30HO0P,wind,2021,316.53
+amb,Republic of Serbia,RSPWI30HO0P,wind,2022,1511.39
+amb,Republic of Serbia,RSPWI30HO0P,wind,2023,2706.22
+amb,Republic of Serbia,RSPWI30HO0P,wind,2024,3901.09
+amb,Republic of Serbia,RSPWI30HO0P,wind,2025,5095.92
+amb,Republic of Serbia,RSPWI30HO0P,wind,2026,6290.78
+amb,Republic of Serbia,RSPWI30HO0P,wind,2027,7485.62
+amb,Republic of Serbia,RSPWI30HO0P,wind,2028,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2029,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2030,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2031,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2032,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2033,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2034,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2035,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2036,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2037,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2038,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2039,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2040,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2041,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2042,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2043,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2044,8183.7
+amb,Republic of Serbia,RSPWI30HO0P,wind,2045,8183.7
