@@ -4,7 +4,9 @@ production =production[production['TECHNOLOGY'].str.startswith('PWR') & (product
 el_generation=ex.bar(production.reset_index(), x='YEAR', y='VALUE', color='TECHNOLOGY',color_discrete_map={
                 "PWRGAS": "grey",
                 "PWRHYD": "blue",
-                "PWRSOL": "goldenrod"},title='Electricity generation',labels={"VALUE": "Peta Joules"},width=500,height=500)
+                "PWRSOL": "goldenrod", 
+				"PWRCOA":"black", 
+				"PWRWND":"green"},title='Electricity generation',labels={"VALUE": "Peta Joules"},width=500,height=500)
 el_generation.update_xaxes(dtick=1)
 #water use graph
 use = pd.read_csv('results/UseByTechnology.csv')
@@ -12,7 +14,9 @@ use=use[use['TECHNOLOGY'].str.startswith('PWRHYD') & (use['FUEL'] =='HYD')].grou
 water_use=ex.bar(use.reset_index(), x='YEAR', y='VALUE', color='TECHNOLOGY',color_discrete_map={
                 "PWRGAS": "grey",
                 "PWRHYD": "blue",
-                "PWRSOL": "goldenrod"},title='Water Use',labels={"VALUE": "Billion cubic meters"},width=500,height=500)
+                "PWRSOL": "goldenrod", 
+				"PWRCOA":"black", 
+				"PWRWND":"green"},title='Water Use',labels={"VALUE": "Billion cubic meters"},width=500,height=500)
 water_use.update_xaxes(dtick=1)
 #Electricity generation per timeslice
 productionts = pd.read_csv('results/ProductionByTechnology.csv')
@@ -20,7 +24,9 @@ productionts =productionts[productionts['TECHNOLOGY'].str.startswith('PWR') & (p
 el_ts=ex.bar(productionts.reset_index(), x='TIMESLICE', y='VALUE', color='TECHNOLOGY',color_discrete_map={
                 "PWRGAS": "grey",
                 "PWRHYD": "blue",
-                "PWRSOL": "goldenrod"},title='Electricity generation by Time Slice (2019)',labels={"VALUE": "Peta Joules"},width=500,height=500)
+                "PWRSOL": "goldenrod", 
+				"PWRCOA":"black", 
+				"PWRWND":"green"},title='Electricity generation by Time Slice (2019)',labels={"VALUE": "Peta Joules"},width=500,height=500)
 el_ts.update_xaxes(dtick=1)
 el_generation.show()
 water_use.show()
