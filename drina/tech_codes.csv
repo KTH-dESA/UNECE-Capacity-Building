@@ -8,8 +8,8 @@ Hydro outside Drina,Hydro outside Drina,blue
 Solar PV inside Drina,Solar PV inside Drina,yellowgreen
 Solar PV outside Drina,Solar PV outside Drina,yellow
 Backstop,Backstop,black
-Import,Import,gold
-Export,Export,red
+Import from outside the Drin,Import from outside the Drin,gold
+Export outside the Drin,Export outside the Drin,red
 ALELME300,Electricity Traded from AL to ME,orchid
 ALELRS300,Electricity Traded from AL to RS,black
 BAHREL300,Electricity Trade from BA to HR,pink
