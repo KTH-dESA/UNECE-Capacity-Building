@@ -1,15 +1,15 @@
 tech_code,tech_name,colour
-Coal inside Drina,Coal inside Drina,brown
-Coal outside Drina,Coal outside Drina,burlywood
-Wind inside Drina,Wind inside Drina,deeppink
-Wind outside Drina,Wind outside Drina,pink
-Hydro inside Drina,Hydro inside Drina,cadetblue
-Hydro outside Drina,Hydro outside Drina,blue
-Solar PV inside Drina,Solar PV inside Drina,yellowgreen
+Coal inside Drina,Coal inside Drina,dimgray
+Coal outside Drina,Coal outside Drina,black
+Wind inside Drina,Wind inside Drina,darkorchid
+Wind outside Drina,Wind outside Drina,violet
+Hydro inside Drina,Hydro inside Drina,royalblue
+Hydro outside Drina,Hydro outside Drina,mediumblue
+Solar PV inside Drina,Solar PV inside Drina,gold
 Solar PV outside Drina,Solar PV outside Drina,yellow
-Backstop,Backstop,black
-Import from outside the Drin,Import from outside the Drin,gold
-Export outside the Drin,Export outside the Drin,red
+Backstop,Backstop,cyan
+Import from outside the Drin,Import from outside the Drin,darkseagreen
+Export outside the Drin,Export outside the Drin,darkolivegreen
 ALELME300,Electricity Traded from AL to ME,orchid
 ALELRS300,Electricity Traded from AL to RS,black
 BAHREL300,Electricity Trade from BA to HR,pink
@@ -87,52 +87,52 @@ RSRCODM000,RS Coal extraction resource,lightcyan
 BAPELBS000,BA BACKSTOP TECHNOLOGY,lightgoldenrodyellow
 MEPELBS000,ME BACKSTOP TECHNOLOGY,lightgray
 RSPELBS000,RS BACKSTOP TECHNOLOGY,lightgrey
-BAPCOSCHO0,BA Coal TPP - Existing Outside DRB,lightgreen
-BAPCOSCHI0,BA Coal TPP - Existing Inside DRB,lightpink
-BAPCOSCNI0,BA Coal TPP - New Inside DRB,lightsalmon
-BAPCOSCNO0,BA Coal TPP - New Outside DRB,lightseagreen
-MEPCOSCHO0,ME Coal TPP - Existing Outside DRB,lightskyblue
-MEPCOSCHI0,ME Coal TPP - Existing Inside DRB,lightslategray
-MEPCOSCNI0,ME Coal TPP - New Inside DRB,lightslategrey
-MEPCOSCNO0,ME Coal TPP - New Outside DRB,lightsteelblue
-RSPCOSCHO0,RS Coal TPP - Existing Outside DRB,lightyellow
-RSPCOSCNO0,RS Coal TPP - New Outside DRB,lime
-BAPWI30HO0,BA Wind Turbine - Existing Outside DRB,limegreen
-BAPWI25HI0,BA Wind Turbine - Existing Inside DRB,linen
-BAPWI30NO0,BA Wind Turbine - New Outside DRB,magenta
-BAPWI25NI0,BA Wind Turbine - New Inside DRB,black
-MEPWI25HO0,ME Wind Turbine - Existing Outside DRB,mediumaquamarine
-MEPWI30HI0,ME Wind Turbine - Existing Inside DRB,mediumblue
-MEPWI25NO0,ME Wind Turbine - New Outside DRB,mediumorchid
-MEPWI30NO0,ME Wind Turbine - New Inside DRB,mediumpurple
-RSPWI30HO0,RS Wind Turbine - Existing Outside DRB,mediumseagreen
-RSPWI25HI0,RS Wind Turbine - Existing Inside DRB,mediumslateblue
-RSPWI30NO0,RS Wind Turbine - New Outside DRB,mediumspringgreen
-RSPWI25NI0,RS Wind Turbine - New Inside DRB,mediumturquoise
-BAPSOU1HO0,BA Solar PV - Existing Outside DRB,mediumvioletred
-BAPSOU1HI0,BA Solar PV - Existing Inside DRB,midnightblue
-BAPSOU1NI0,BA Solar PV - New Inside DRB,mintcream
-BAPSOU1NO0,BA Solar PV - New Outside DRB,mistyrose
-MEPSOU1HO0,ME Solar PV - Existing Outside DRB,moccasin
-MEPSOU1HI0,ME Solar PV - Existing Inside DRB,navajowhite
-MEPSOU1NI0,ME Solar PV - New Inside DRB,navy
-MEPSOU1NO0,ME Solar PV - New Outside DRB,oldlace
-RSPSOU1HO0,RS Solar PV - Existing Outside DRB,olive
-RSPSOU1HI0,RS Solar PV - Existing Inside DRB,olivedrab
-RSPSOU1NI0,RS Solar PV - New Inside DRB,orange
-RSPSOU1NO0,RS Solar PV - New Outside DRB,orangered
-BAPHYRRHO0,BA Hydro ROR-Existing Outside DRB,orchid
-BAPHYRRHI0,BA Hydro ROR-Existing Inside DRB,palegoldenrod
-BAPHYRRNO0,BA Hydro ROR-New Outside DRB,palegreen
-BAPHYRRNI0,BA Hydro ROR-New Inside DRB,paleturquoise
-MEPHYRRHO0,ME Hydro ROR-Existing Outside DRB,palevioletred
-MEPHYRRHI0,ME Hydro ROR-Existing Inside DRB,papayawhip
-MEPHYRRNO0,ME Hydro ROR-New Outside DRB,peachpuff
-MEPHYRRNI0,ME Hydro ROR-New Inside DRB,peru
-RSPHYRRHO0,RS Hydro ROR-Existing Outside DRB,pink
-RSPHYRRHI0,RS Hydro ROR-Existing Inside DRB,plum
-RSPHYRRNO0,RS Hydro ROR-New Outside DRB,powderblue
-RSPHYRRNI0,RS Hydro ROR-New Inside DRB,purple
+BAPCOSCHO0,BA Coal TPP - Existing Outside DRB,black
+BAPCOSCHI0,BA Coal TPP - Existing Inside DRB,dimgrey
+BAPCOSCNI0,BA Coal TPP - New Inside DRB,gainsboro
+BAPCOSCNO0,BA Coal TPP - New Outside DRB,lightgray
+MEPCOSCHO0,ME Coal TPP - Existing Outside DRB,gainsboro
+MEPCOSCHI0,ME Coal TPP - Existing Inside DRB,black
+MEPCOSCNI0,ME Coal TPP - New Inside DRB,lightgray
+MEPCOSCNO0,ME Coal TPP - New Outside DRB,whitesmoke
+RSPCOSCHO0,RS Coal TPP - Existing Outside DRB,black
+RSPCOSCNO0,RS Coal TPP - New Outside DRB,grey
+BAPWI30HO0,BA Wind Turbine - Existing Outside DRB,purple
+BAPWI25HI0,BA Wind Turbine - Existing Inside DRB,violet
+BAPWI30NO0,BA Wind Turbine - New Outside DRB,plum
+BAPWI25NI0,BA Wind Turbine - New Inside DRB,mediumorchid
+MEPWI25HO0,ME Wind Turbine - Existing Outside DRB,purple
+MEPWI30HI0,ME Wind Turbine - Existing Inside DRB,violet
+MEPWI25NO0,ME Wind Turbine - New Outside DRB,plum
+MEPWI30NO0,ME Wind Turbine - New Inside DRB,mediumorchid
+RSPWI30HO0,RS Wind Turbine - Existing Outside DRB,purple
+RSPWI25HI0,RS Wind Turbine - Existing Inside DRB,violet
+RSPWI30NO0,RS Wind Turbine - New Outside DRB,plum
+RSPWI25NI0,RS Wind Turbine - New Inside DRB,mediumorchid
+BAPSOU1HO0,BA Solar PV - Existing Outside DRB,orange
+BAPSOU1HI0,BA Solar PV - Existing Inside DRB,moccasin
+BAPSOU1NI0,BA Solar PV - New Inside DRB,gold
+BAPSOU1NO0,BA Solar PV - New Outside DRB,yellow
+MEPSOU1HO0,ME Solar PV - Existing Outside DRB,orange
+MEPSOU1HI0,ME Solar PV - Existing Inside DRB,moccasin
+MEPSOU1NI0,ME Solar PV - New Inside DRB,gold
+MEPSOU1NO0,ME Solar PV - New Outside DRB,yellow
+RSPSOU1HO0,RS Solar PV - Existing Outside DRB,orange
+RSPSOU1HI0,RS Solar PV - Existing Inside DRB,moccasin
+RSPSOU1NI0,RS Solar PV - New Inside DRB,gold
+RSPSOU1NO0,RS Solar PV - New Outside DRB,yellow
+BAPHYRRHO0,BA Hydro ROR-Existing Outside DRB,darkblue
+BAPHYRRHI0,BA Hydro ROR-Existing Inside DRB,blue
+BAPHYRRNO0,BA Hydro ROR-New Outside DRB,royalblue
+BAPHYRRNI0,BA Hydro ROR-New Inside DRB,cornflowerblue
+MEPHYRRHO0,ME Hydro ROR-Existing Outside DRB,darkblue
+MEPHYRRHI0,ME Hydro ROR-Existing Inside DRB,blue
+MEPHYRRNO0,ME Hydro ROR-New Outside DRB,royalblue
+MEPHYRRNI0,ME Hydro ROR-New Inside DRB,cornflowerblue
+RSPHYRRHO0,RS Hydro ROR-Existing Outside DRB,darkblue
+RSPHYRRHI0,RS Hydro ROR-Existing Inside DRB,blue
+RSPHYRRNO0,RS Hydro ROR-New Outside DRB,royalblue
+RSPHYRRNI0,RS Hydro ROR-New Inside DRB,cornflowerblue
 MECWTCT1PA,ME Piva inflow from Catchment 1,red
 BACWTCT1DR,BA Drina inflow from Catchment 13,rosybrown
 BACWTCT2DR,BA Drina inflow from Catchment 9,royalblue
@@ -157,17 +157,17 @@ RSCWTSP2UC,RS Uvac HPP spillway,forestgreen
 RSCWTSP3UC,RS Kokin Brod HPP spillway,fuchsia
 RSCWTSP4UC,RS Bistrica HPP spillway,gainsboro
 RSCWTSP5LM,RS Potpec HPP spillway,ghostwhite
-MEPHYDMHI1,ME Hydro dam-Piva HPP,gold
-BAPHYDMHI1,BA Hydro dam-Visegrad HPP,goldenrod
-RSPHYDMHI1,RS Hydro dam-BajinaBasta HPP,gray
-RSPHYDMHI2,RS Hydro dam-Zvornik HPP,grey
-RSPHYDMHI3,RS Hydro dam-Uvac HPP,green
-RSPHYDMHI4,RS Hydro dam-KokinBrod HPP,greenyellow
-RSPHYDMHI5,RS Hydro dam-Bistrica HPP,honeydew
-RSPHYDMHI6,RS Hydro dam-Potpec HPP,hotpink
-BAPHYDMHI2,BA Hydro dam-BukBijela HPP,black
-BAPHYDMHI3,BA Hydro dam-Foca HPP,indigo
-BAPHYDMHI4,BA Hydro dam-Paunci HPP,ivory
+MEPHYDMHI1,ME Hydro dam-Piva HPP,deepskyblue
+BAPHYDMHI1,BA Hydro dam-Visegrad HPP,skyblue
+RSPHYDMHI1,RS Hydro dam-BajinaBasta HPP,steelblue
+RSPHYDMHI2,RS Hydro dam-Zvornik HPP,dodgerblue
+RSPHYDMHI3,RS Hydro dam-Uvac HPP,darkturquoise
+RSPHYDMHI4,RS Hydro dam-KokinBrod HPP,lightsteelblue
+RSPHYDMHI5,RS Hydro dam-Bistrica HPP,cornflowerblue
+RSPHYDMHI6,RS Hydro dam-Potpec HPP,royalblue
+BAPHYDMHI2,BA Hydro dam-BukBijela HPP,blue
+BAPHYDMHI3,BA Hydro dam-Foca HPP,mediumturquoise
+BAPHYDMHI4,BA Hydro dam-Paunci HPP,lightcyan
 BACWTRS1DR,BA Drina River Segment 1,khaki
 BACWTRSXDR,BA Drina River Segment 1.1,lavender
 BACWTRS3DR,BA Drina River Segment 3,lavenderblush
@@ -190,32 +190,32 @@ RSCWTRS4UC,RS Uvac River Segment 4,lightsteelblue
 RSCWTRS1LM,RS Lim River Segment 1,lightyellow
 RSCWTRS2LM,RS Lim River Segment 2,lime
 RSCWTRSZUL,RS Uvac/Lim River Segment,limegreen
-ALTRDMEH00,AL to ME trade line,linen
-ALTRDRSH00,AL to RS trade line,magenta
+ALTRDMEH00,AL to ME trade line,lightcoral
+ALTRDRSH00,AL to RS trade line,forestgreen
 BATRDHRH00,BA to HR trade line,black
-BATRDMEH00,BA to ME trade line,mediumaquamarine
-BATRDRSH00,BA to RS trade line,mediumblue
-BGTRDRSH00,BG to RS  trade line,mediumorchid
-HRTRDBAH00,HR to BA  trade line,mediumpurple
-HRTRDRSH00,HR to RS trade line,mediumseagreen
-HUTRDRSH00,HU to RS trade line,mediumslateblue
-ITTRDMEH00,IT to ME trade line,mediumspringgreen
+BATRDMEH00,BA to ME trade line,indianred
+BATRDRSH00,BA to RS trade line,limegreen
+BGTRDRSH00,BG to RS  trade line,darkgreen
+HRTRDBAH00,HR to BA  trade line,mediumorchid
+HRTRDRSH00,HR to RS trade line,seagreen
+HUTRDRSH00,HU to RS trade line,springgreen
+ITTRDMEH00,IT to ME trade line,brown
 METRDALH00,ME to AL trade line,mediumturquoise
-METRDBAH00,ME to BA trade line,mediumvioletred
+METRDBAH00,ME to BA trade line,darkviolet
 METRDITH00,ME to IT trade line,midnightblue
-METRDRSH00,ME to RS trade line,mintcream
+METRDRSH00,ME to RS trade line,lightgreen
 METRDXKH00,ME to XK trade line,mistyrose
-MKTRDRSH00,MK to RS trade line,moccasin
-ROTRDRSH00,RO to RS trade line,navajowhite
+MKTRDRSH00,MK to RS trade line,yellowgreen
+ROTRDRSH00,RO to RS trade line,olivedrab
 RSTRDALH00,RS to AL trade line,navy
-RSTRDBAH00,RS to BA trade line,oldlace
+RSTRDBAH00,RS to BA trade line,magenta
 RSTRDBGH00,RS to BG trade line,olive
 RSTRDHRH00,RS to HR trade line,olivedrab
 RSTRDHUH00,RS to HU trade line,orange
-RSTRDMEH00,RS to ME trade line,orangered
+RSTRDMEH00,RS to ME trade line,rosybrown
 RSTRDMKH00,RS to MK trade line,orchid
 RSTRDROH00,RS to RO trade line,palegoldenrod
 RSTRDXKH00,RS to XK trade line,palegreen
-XKTRDMEH00,XK to ME trade line,paleturquoise
-XKTRDRSH00,XK to RS trade line,palevioletred
+XKTRDMEH00,XK to ME trade line,maroon
+XKTRDRSH00,XK to RS trade line,olive
 RSTELTRDS0,T&D tech in RS,brown
