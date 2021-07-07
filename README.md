@@ -23,3 +23,7 @@ Push your branch <br>
 
 **nbstripout**<br>
     Install the Python package npstripout to prevent Jupyter notebook output data from being committed to the repository.
+    
+Drina folder<br>
+     Install the environment using `conda env create -f environment.yml`
+
