@@ -5,8 +5,8 @@ el_generation=ex.bar(production.reset_index(), x='YEAR', y='VALUE', color='TECHN
                 "PWRGAS": "grey",
                 "PWRHYD": "blue",
                 "PWRSOL": "goldenrod", 
-				"PWRCOA":"black", 
-				"PWRWND":"green"},title='Electricity generation',labels={"VALUE": "Peta Joules"},width=500,height=500)
+				"PWRCOA": "black", 
+				"PWRWND": "green"},title='Electricity generation',labels={"VALUE": "Peta Joules"},width=500,height=500)
 el_generation.update_xaxes(dtick=1)
 #water use graph
 use = pd.read_csv('results/UseByTechnology.csv')
@@ -15,8 +15,8 @@ water_use=ex.bar(use.reset_index(), x='YEAR', y='VALUE', color='TECHNOLOGY',colo
                 "PWRGAS": "grey",
                 "PWRHYD": "blue",
                 "PWRSOL": "goldenrod", 
-				"PWRCOA":"black", 
-				"PWRWND":"green"},title='Water Use',labels={"VALUE": "Billion cubic meters"},width=500,height=500)
+				"PWRCOA": "black", 
+				"PWRWND": "green"},title='Water Use',labels={"VALUE": "Million Cubic Meters (MCM)"},width=500,height=500)
 water_use.update_xaxes(dtick=1)
 #Electricity generation per timeslice
 productionts = pd.read_csv('results/ProductionByTechnology.csv')
@@ -25,8 +25,8 @@ el_ts=ex.bar(productionts.reset_index(), x='TIMESLICE', y='VALUE', color='TECHNO
                 "PWRGAS": "grey",
                 "PWRHYD": "blue",
                 "PWRSOL": "goldenrod", 
-				"PWRCOA":"black", 
-				"PWRWND":"green"},title='Electricity generation by Time Slice (2019)',labels={"VALUE": "Peta Joules"},width=500,height=500)
+				"PWRCOA": "black", 
+				"PWRWND": "green"},title='Electricity generation by Time Slice (2019)',labels={"VALUE": "Peta Joules"},width=500,height=500)
 el_ts.update_xaxes(dtick=1)
 el_generation.show()
 water_use.show()
